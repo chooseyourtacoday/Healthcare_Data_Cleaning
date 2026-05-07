@@ -1,0 +1,1001 @@
+patient_id,first_name,last_name,date_of_birth,admission_date,gender,blood_type,phone,email,state,zip_code,department,num_visits,last_donation_ml,hemoglobin,weight_lbs
+PT-00353,Grant,Brown,1977-10-03,2022-02-05,Male,B+,(173) 530-7323,richard67@example.org,TX,78287.0,Phlebotomy,1.0,475.0,11.4,
+PT-00690,Michael,Stevenson,2003-12-16,2023-12-26,Non-binary,O-,(542) 766-7881,carolynperez@example.org,TX,79124.0,Emergency,5.0,411.0,16.3,229.0
+PT-00486,Kim,Anderson,2001-12-15,2021-04-23,Female,A+,(892) 743-5500,brandon27@example.org,TX,78657.0,Cardiology,15.0,413.0,15.0,253.0
+PT-00389,Shelley,Cochran,2002-08-02,2022-01-09,Male,AB+,(772) 930-4328,wardjoseph@example.com,TX,79419.0,Emergency,19.0,418.0,14.7,158.0
+PT-00032,Christina,Watson,2044-07-01,2024-07-20,Non-binary,B+,(998) 437-3249,,TX,78960.0,Phlebotomy,17.0,410.0,16.5,127.0
+PT-00443,Denise,Rodriguez,1981-01-18,2019-08-10,,B+,(132) 322-7128,ashley18@example.com,TX,75650.0,General,16.0,,15.1,155.0
+PT-00199,Anthony,Garcia,1947-01-30,2022-10-30,Female,,(001) 783-7263,jmorris@example.com,TX,78549.0,Cardiology,4.0,410.0,13.1,185.0
+PT-00426,Alyssa,Green,2001-02-09,2018-05-06,Male,,(566) 395-9458,teresapage@example.net,TX,78856.0,General,20.0,457.0,12.2,231.0
+PT-00108,Melissa,Chaney,2052-12-22,,Female,A+,(927) 491-6433,jbailey@example.org,TX,76978.0,Phlebotomy,9.0,498.0,16.1,216.0
+PT-00715,Joshua,Drake,1967-04-12,2024-04-27,Female,B+,(487) 997-7389,jonescaitlin@example.net,TX,75934.0,General,19.0,421.0,14.7,278.0
+PT-00553,Tiffany,Moore,1981-03-01,2023-03-03,Male,O-,(880) 998-7499,preynolds@example.org,TX,79953.0,General,9.0,408.0,13.5,166.0
+PT-00676,Michael,Johnson,1989-10-22,2024-01-04,Male,,(198) 720-5834,,TX,77285.0,General,11.0,,11.4,148.0
+PT-00159,Matthew,Marsh,1974-02-09,2023-12-22,Female,AB-,(001) 413-3804,,TX,79438.0,Phlebotomy,13.0,494.0,11.3,114.0
+PT-00476,Christopher,Roberson,1949-08-05,2020-11-07,Female,B-,(191) 733-4606,billybarrett@example.com,TX,76132.0,Phlebotomy,13.0,427.0,14.0,158.0
+PT-00424,Troy,Davis,1991-01-07,2018-04-29,Female,,(143) 196-6990,emorris@example.org,TX,79409.0,Oncology,2.0,431.0,11.2,122.0
+PT-00211,Laura,Sanders,1997-08-17,2018-10-31,,,(536) 255-6492,shawn27@example.net,TX,78925.0,Emergency,12.0,416.0,16.7,251.0
+PT-00618,Allen,Perez,1941-12-12,2021-02-04,Non-binary,A-,(726) 931-6427,,TX,76389.0,Phlebotomy,15.0,445.0,12.0,177.0
+PT-00484,Ronald,Rodriguez,1999-08-11,2022-09-06,Male,O+,(001) 307-4184,qgarcia@example.com,TX,76535.0,Phlebotomy,17.0,413.0,11.2,147.0
+PT-00885,Sheena,Mcmillan,1977-05-11,2018-11-11,Female,,(293) 623-6604,victoriaday@example.com,TX,79332.0,Phlebotomy,11.0,403.0,12.8,141.0
+PT-00651,Wendy,Smith,1991-04-24,2024-08-29,Male,B+,(877) 885-5499,michaelsimmons@example.net,TX,75699.0,Emergency,15.0,405.0,16.7,172.0
+PT-00245,Jamie,Berger,1955-09-15,2022-09-08,Female,A+,(339) 523-2991,charlesware@example.org,TX,78216.0,General,16.0,423.0,17.1,184.0
+PT-00848,Billy,Reyes,1979-01-22,2022-08-08,Non-binary,A-,(692) 266-8985,joshua28@example.org,TX,78603.0,Oncology,14.0,434.0,16.4,275.0
+PT-00983,Michael,Ramos,1978-05-29,2024-12-15,Female,AB-,(556) 958-0953,,TX,76587.0,Phlebotomy,15.0,466.0,13.1,159.0
+PT-00829,Richard,Brooks,1948-12-07,2018-08-05,Male,O-,(135) 771-2921,berryjonathan@example.org,TX,79882.0,Oncology,6.0,448.0,14.9,193.0
+PT-00571,Robert,Bennett,1998-03-27,2024-01-15,Female,AB+,(932) 683-6979,fhall@example.org,TX,78632.0,Cardiology,11.0,486.0,,224.0
+PT-00060,Paul,Allen,1980-12-13,2019-07-01,Prefer not to say,AB-,(613) 883-1081,qmoore@example.org,TX,76923.0,General,20.0,492.0,,219.0
+PT-00291,Joshua,Nguyen,2001-05-27,2021-02-22,Female,B+,(751) 639-2319,pattersonlinda@example.com,TX,76809.0,Cardiology,1.0,426.0,14.8,211.0
+PT-00071,Ryan,Larson,1960-02-12,2018-09-10,Male,A+,(192) 193-7051,suttonwilliam@example.com,TX,79675.0,Oncology,7.0,402.0,15.0,
+PT-00345,Patrick,Glover,2002-07-04,2019-06-26,Prefer not to say,,(407) 377-8196,michael72@example.com,TX,76859.0,Oncology,13.0,411.0,15.7,136.0
+PT-00185,David,Jones,2004-02-13,2021-10-05,Female,B+,(171) 790-1768,,TX,78688.0,Phlebotomy,10.0,,15.5,145.0
+PT-00142,Michele,Smith,2045-06-16,2023-05-16,Non-binary,O+,(626) 656-4117,alexandra89@example.com,TX,77608.0,Phlebotomy,16.0,491.0,16.9,128.0
+PT-00391,Kimberly,Freeman,1959-08-18,2018-03-23,Prefer not to say,,(153) 958-0213,manuel04@example.net,TX,76578.0,Phlebotomy,20.0,425.0,,197.0
+PT-00492,Michael,Adams,1953-10-15,2021-08-14,Male,AB+,(885) 350-1091,,TX,79623.0,General,19.0,470.0,13.3,191.0
+PT-00827,Keith,Wheeler,1975-11-27,2021-12-29,Prefer not to say,O+,(001) 388-2816,,TX,79140.0,Cardiology,17.0,435.0,12.0,226.0
+PT-00102,Justin,Horton,1965-11-09,2022-06-29,Male,,(426) 904-6337,,TX,76341.0,Phlebotomy,11.0,432.0,13.1,213.0
+PT-00750,Alicia,Cruz,1947-03-30,2018-01-27,Prefer not to say,B+,(807) 335-8873,crystaljimenez@example.net,TX,77371.0,Phlebotomy,19.0,436.0,13.7,231.0
+PT-00552,Anne,Murphy,1991-07-30,2020-10-21,Prefer not to say,O+,(001) 802-5113,rayhanson@example.net,TX,76471.0,Emergency,16.0,498.0,12.6,196.0
+PT-00307,Ralph,Larsen,2065-02-22,2022-05-29,Non-binary,A-,(335) 886-4156,kelly10@example.org,TX,75556.0,Emergency,7.0,475.0,17.5,156.0
+PT-00987,Elaine,Clements,2053-01-23,2019-08-27,,AB+,(923) 498-0358,kennethnelson@example.org,TX,78946.0,General,11.0,437.0,13.4,112.0
+PT-00322,Nicole,Kennedy,1971-03-19,2021-12-12,Female,B+,,zchristensen@example.com,TX,76287.0,Cardiology,20.0,475.0,11.6,144.0
+PT-00800,Scott,Fowler,1997-06-19,2023-04-20,Male,AB+,(941) 968-6028,warnerandre@example.net,TX,79979.0,General,6.0,462.0,16.9,275.0
+PT-00731,Melissa,Berger,1945-08-06,2022-04-17,Prefer not to say,,(921) 446-8549,armstrongbrenda@example.com,TX,79647.0,Phlebotomy,9.0,433.0,12.2,127.0
+PT-00678,Gabriella,Moore,1993-05-25,2019-04-24,Non-binary,AB-,(435) 656-0874,claire68@example.org,TX,75546.0,Phlebotomy,9.0,452.0,11.6,170.0
+PT-00654,Tonya,Zavala,1995-03-01,2018-08-12,Female,B+,(767) 206-0129,fdunn@example.org,TX,79566.0,Cardiology,3.0,492.0,14.3,156.0
+PT-00077,Tracy,Oneal,1981-03-30,2019-09-19,Prefer not to say,B+,(001) 494-7942,melissabarnett@example.com,TX,76057.0,Emergency,9.0,478.0,16.3,247.0
+PT-00193,Alex,Cline,1992-03-15,2021-09-23,Female,,,,TX,79957.0,Oncology,18.0,443.0,16.3,154.0
+PT-00087,Donald,Perry,2003-07-09,,Female,AB+,(872) 879-2606,bob37@example.com,TX,79359.0,Phlebotomy,2.0,470.0,12.9,142.0
+PT-00459,Judith,Cortez,1997-10-21,2020-08-04,Prefer not to say,AB+,,,TX,78386.0,Cardiology,15.0,406.0,11.6,
+PT-00440,Lindsay,Pham,1969-09-21,2022-03-03,Non-binary,AB+,(001) 819-6693,gomezmaria@example.net,TX,79185.0,General,4.0,460.0,11.3,272.0
+PT-00919,Nancy,Hoffman,1949-07-01,2024-11-05,Male,A+,(624) 225-4399,mdavid@example.com,TX,79888.0,Emergency,4.0,421.0,15.1,162.0
+PT-00661,Stephanie,Robinson,1981-02-22,2023-08-01,Prefer not to say,A+,(584) 864-3439,uware@example.net,TX,75976.0,Emergency,16.0,430.0,,278.0
+PT-00310,Laura,Holmes,1973-10-27,2018-10-30,Prefer not to say,O-,(379) 326-7234,david56@example.net,TX,78216.0,Emergency,13.0,468.0,14.3,217.0
+PT-00744,James,Murphy,1983-11-11,2018-03-20,,A+,(594) 933-0003,smithalexander@example.com,TX,76154.0,Phlebotomy,5.0,401.0,12.1,122.0
+PT-00874,Charles,Spence,1940-12-04,2023-05-04,Female,A+,(335) 979-8182,katherinebryant@example.org,TX,76915.0,General,7.0,491.0,,218.0
+PT-00399,Albert,Garrett,1971-06-11,2020-11-17,Male,A+,,,TX,78601.0,Phlebotomy,13.0,456.0,15.8,152.0
+PT-00617,Peter,Sanchez,1993-06-12,2018-03-08,Female,AB+,(845) 225-8068,michelleblake@example.com,TX,76130.0,Phlebotomy,10.0,428.0,,190.0
+PT-00050,Sheena,Tapia,1978-12-26,,Non-binary,O+,,doughertyjacob@example.net,TX,76394.0,Phlebotomy,17.0,414.0,13.5,257.0
+PT-00200,Daniel,Maynard,1967-07-01,2023-01-01,,B+,(001) 419-5387,thomas79@example.org,TX,78890.0,General,12.0,457.0,,200.0
+PT-00599,Jason,Shaw,1970-05-12,2018-09-03,Non-binary,AB-,(719) 474-3238,crystal91@example.com,TX,79707.0,Oncology,18.0,413.0,11.8,
+PT-00970,April,Hess,1958-10-04,2018-01-30,Female,O+,,susan81@example.com,TX,76705.0,Phlebotomy,9.0,472.0,,
+PT-00883,Andrew,Rojas,1983-07-13,2023-02-18,Male,A-,(209) 394-2597,ghill@example.net,TX,76422.0,Oncology,4.0,444.0,,182.0
+PT-00429,Tracy,Phelps,1998-01-29,2020-07-11,Male,AB+,(983) 990-0259,xmartinez@example.net,TX,79526.0,General,17.0,402.0,16.6,112.0
+PT-00498,Hunter,Franco,1968-09-26,2023-10-06,Male,A-,(615) 271-0610,juliereese@example.com,TX,76201.0,Phlebotomy,18.0,468.0,11.0,126.0
+PT-00604,Matthew,Ayala,1997-03-28,2023-09-04,Prefer not to say,B+,(001) 758-8043,christensenkyle@example.net,TX,75596.0,Phlebotomy,20.0,446.0,16.0,171.0
+PT-00011,Casey,Walker,2064-01-08,2018-09-29,Female,,(126) 731-4701,mitchellmatthew@example.org,TX,76703.0,Oncology,16.0,450.0,16.8,274.0
+PT-00889,Kendra,Perkins,1989-02-01,2024-10-02,Prefer not to say,,(384) 632-2906,williamhudson@example.com,TX,78961.0,General,9.0,422.0,12.6,
+PT-00671,Kimberly,Harris,1996-02-11,2019-04-29,Female,,(269) 376-6708,,TX,79930.0,General,2.0,442.0,13.3,273.0
+PT-00938,David,Gibbs,1952-12-12,2023-09-03,Female,,(134) 963-7396,christinestafford@example.net,TX,75739.0,General,999.0,490.0,14.3,245.0
+PT-00929,Andrew,Boyd,1970-01-03,2022-05-17,Female,,(912) 957-3330,fkelley@example.net,TX,78304.0,Oncology,3.0,465.0,14.6,243.0
+PT-00558,Tricia,Alvarado,2053-12-29,2019-03-13,Male,B+,(662) 680-1679,ashley53@example.net,TX,77338.0,General,20.0,400.0,16.0,248.0
+PT-00637,Anna,Murphy,1981-02-01,2024-04-15,Male,,(331) 340-6039,danielle79@example.org,TX,75729.0,Cardiology,17.0,439.0,13.2,210.0
+PT-00834,Wanda,Baker,1983-09-24,2019-03-25,Prefer not to say,,(185) 035-3745,,TX,76479.0,General,18.0,420.0,,210.0
+PT-00372,Timothy,Hernandez,1997-03-02,2022-06-04,Male,A+,(154) 757-0227,lesliemendoza@example.com,TX,77468.0,General,5.0,430.0,,190.0
+PT-00835,Phillip,Morgan,1963-08-18,2023-07-20,Female,AB-,(632) 910-1950,aacosta@example.net,TX,77483.0,Cardiology,11.0,407.0,11.2,121.0
+PT-00583,Douglas,Frazier,1952-03-24,2021-11-09,,A+,(949) 219-9085,whitney32@example.com,TX,,Emergency,1.0,488.0,17.0,232.0
+PT-00334,Jessica,Wood,1965-12-15,2024-06-03,,A-,(852) 688-8251,yhill@example.com,TX,77280.0,Oncology,14.0,407.0,17.5,277.0
+PT-00946,Matthew,Whitehead,1974-09-27,2020-08-11,Prefer not to say,A+,(001) 282-6308,aadams@example.net,TX,77370.0,Emergency,2.0,485.0,16.8,181.0
+PT-00320,Michelle,Sharp,1958-06-18,2021-02-14,Male,A-,(408) 244-6335,,TX,78476.0,General,6.0,446.0,13.1,227.0
+PT-00458,Marcus,Young,1991-07-05,2023-07-17,Female,A-,(137) 991-7686,chall@example.com,TX,75682.0,Emergency,3.0,492.0,15.7,175.0
+PT-00089,Craig,Allen,1956-07-16,2018-07-30,Non-binary,AB+,(415) 900-4574,brandi41@example.com,TX,,Phlebotomy,3.0,451.0,14.2,257.0
+PT-00880,Sheena,Brown,1994-12-27,2020-12-16,Non-binary,O+,(679) 565-0186,,TX,78902.0,Cardiology,11.0,494.0,17.5,148.0
+PT-00351,Diane,Morgan,1975-02-22,2021-04-25,Non-binary,AB+,(345) 569-2481,charlesphillips@example.org,TX,77683.0,Phlebotomy,13.0,414.0,12.6,273.0
+PT-00219,Deborah,Miller,1981-08-31,2020-04-15,Non-binary,B+,(293) 720-9259,masonkelsey@example.com,TX,79488.0,Cardiology,11.0,,,198.0
+PT-00414,Pam,Rivas,1951-04-27,2018-06-24,Male,A-,,,TX,76266.0,General,7.0,480.0,12.0,262.0
+PT-00278,Julie,Wood,1973-04-04,2021-07-05,Prefer not to say,A+,(001) 312-6150,kgonzalez@example.com,TX,79069.0,Emergency,8.0,494.0,11.9,176.0
+PT-00960,Dawn,Torres,1981-09-07,2024-12-17,Non-binary,B+,(570) 619-6799,sandrapeterson@example.com,TX,79072.0,General,2.0,,12.8,174.0
+PT-00926,Jennifer,Jones,1999-03-24,2019-09-11,Female,AB+,(001) 713-4498,codycarlson@example.net,TX,78935.0,General,,487.0,15.6,187.0
+PT-00214,Travis,Mills,1965-06-25,2018-11-20,,B-,(511) 722-8558,jamie55@example.net,TX,77308.0,Cardiology,9.0,416.0,15.1,267.0
+PT-00097,Crystal,Huynh,1979-05-26,2019-05-25,Prefer not to say,AB+,(969) 367-8627,pettysarah@example.net,TX,79297.0,Phlebotomy,9.0,464.0,14.5,222.0
+PT-00079,Joshua,Grant,1961-11-16,2023-03-19,Prefer not to say,AB-,(362) 296-4481,sking@example.net,TX,78223.0,Phlebotomy,16.0,441.0,12.2,164.0
+PT-00704,Eric,Kline,1961-02-07,2022-11-04,Non-binary,A+,(722) 514-3507,nicolecannon@example.com,TX,78946.0,General,13.0,448.0,13.8,164.0
+PT-00137,Patrick,Robinson,2046-02-26,2024-03-20,,B-,(388) 890-8941,coxjoanna@example.net,TX,79088.0,Oncology,11.0,499.0,12.0,262.0
+PT-00209,James,Wilson,1942-05-11,2022-01-18,Non-binary,,(424) 481-6379,mullenkatherine@example.com,TX,78889.0,Emergency,5.0,478.0,16.7,126.0
+PT-00523,Daniel,Gonzalez,1998-08-23,2022-03-31,Non-binary,A-,(001) 655-9610,allen35@example.com,TX,75808.0,Emergency,9.0,448.0,17.3,167.0
+PT-00838,Jamie,Cook,2001-09-21,2018-09-26,Non-binary,A-,(427) 468-8820,,TX,78101.0,Phlebotomy,6.0,402.0,14.5,119.0
+PT-00733,Emily,Ho,1959-05-08,2024-11-19,Female,,(910) 282-2455,nicole80@example.com,TX,78091.0,Cardiology,4.0,404.0,11.5,256.0
+PT-00569,James,Cooke,1980-05-10,2021-10-02,Non-binary,O-,(001) 234-9324,kellybrandy@example.net,TX,,Cardiology,18.0,471.0,17.1,175.0
+PT-00261,Christopher,Dominguez,1977-09-17,2022-03-14,Prefer not to say,O-,(001) 389-4335,jermaine30@example.org,TX,77884.0,General,13.0,410.0,15.4,279.0
+PT-00468,Melinda,Schmidt,1994-12-26,2018-08-12,Male,,(386) 261-6069,melissagonzalez@example.org,TX,76057.0,Cardiology,16.0,463.0,16.7,129.0
+PT-00040,Gary,Stevens,1963-09-07,2023-02-09,Prefer not to say,AB+,(001) 339-4163,,TX,77599.0,Phlebotomy,3.0,,,180.0
+PT-00031,Dustin,Howell,2057-01-13,2021-04-30,,A+,(361) 551-3669,shawn77@example.net,TX,75853.0,Emergency,18.0,407.0,15.9,124.0
+PT-00698,Nicholas,Martinez,1981-07-12,2021-08-25,Male,,(851) 962-6738,tammy36@example.com,TX,76464.0,Oncology,10.0,451.0,11.5,137.0
+PT-00452,Krista,Espinoza,1987-12-22,2024-12-27,Male,A+,(579) 704-0404,,TX,76344.0,Phlebotomy,1.0,406.0,,
+PT-00055,Renee,Meyers,1978-07-26,2024-07-03,Non-binary,A+,(564) 717-0239,katrinagallegos@example.net,TX,75822.0,General,15.0,486.0,,231.0
+PT-00024,Caitlin,Carroll,2000-07-01,2023-06-12,Male,B+,(395) 965-8412,xhayes@example.com,TX,75753.0,Emergency,19.0,460.0,12.6,231.0
+PT-00514,James,Johnson,2067-05-28,2023-06-18,Non-binary,O+,(469) 513-3207,bsingh@example.com,TX,78328.0,Emergency,3.0,435.0,16.6,145.0
+PT-00114,Amanda,Martinez,2004-10-24,2019-08-14,Non-binary,B+,(001) 817-5349,frankmiller@example.net,TX,77659.0,Emergency,16.0,500.0,17.3,196.0
+PT-00110,George,Hess,1983-12-05,2019-09-01,Prefer not to say,O-,(432) 277-8814,ajackson@example.com,TX,75759.0,Cardiology,11.0,470.0,16.0,206.0
+PT-00507,Amy,Williams,1989-02-13,2018-12-15,Prefer not to say,B-,(640) 967-1812,oblevins@example.net,TX,77380.0,Phlebotomy,7.0,452.0,16.9,241.0
+PT-00967,Sherry,Todd,1993-12-11,2022-01-06,Prefer not to say,A+,,greenrenee@example.org,TX,79874.0,Phlebotomy,4.0,459.0,13.4,159.0
+PT-00950,Elizabeth,Robinson,1979-11-08,2018-12-13,Non-binary,O+,(753) 246-5438,meadowsjennifer@example.net,TX,77347.0,Phlebotomy,2.0,462.0,16.6,115.0
+PT-00004,Sierra,Riley,1954-04-28,2022-09-28,Female,,(623) 259-2882,oryan@example.com,TX,77389.0,Oncology,7.0,497.0,,133.0
+PT-00276,Emily,Bailey,1989-07-12,2021-08-10,Non-binary,,(001) 789-2027,davisgarrett@example.net,TX,79734.0,General,18.0,483.0,13.3,176.0
+PT-00657,Beth,Lawson,2004-06-12,2019-05-22,Prefer not to say,A-,,hgarcia@example.com,TX,75853.0,General,12.0,410.0,14.4,
+PT-00785,Eric,Lozano,2068-05-28,2024-06-11,Non-binary,O-,(887) 506-0238,amygreen@example.net,TX,75825.0,Cardiology,12.0,423.0,12.3,118.0
+PT-00855,Susan,Wall,1969-07-17,2024-07-21,Male,O+,(858) 806-3926,ewalker@example.net,TX,79026.0,General,7.0,418.0,11.7,164.0
+PT-00760,Hunter,Hall,1983-06-17,2018-08-11,Prefer not to say,B+,(426) 376-5024,rhonda88@example.com,TX,78881.0,Oncology,20.0,458.0,12.2,205.0
+PT-00797,Tanya,Wang,1973-09-17,2018-12-29,Prefer not to say,O+,(508) 572-1307,omurphy@example.com,TX,77779.0,Cardiology,14.0,422.0,14.6,255.0
+PT-00903,Gregory,Barber,2067-02-25,2018-12-25,Female,,(183) 384-1262,timothy41@example.net,TX,76522.0,Phlebotomy,7.0,414.0,16.3,158.0
+PT-00395,Ralph,Robinson,2002-03-22,2024-11-18,,O-,,amanda60@example.org,TX,75799.0,Oncology,6.0,448.0,13.0,185.0
+PT-00487,Tiffany,Buck,1960-02-15,2024-04-17,,A+,(540) 524-1824,zacharygriffin@example.com,TX,76251.0,Emergency,10.0,488.0,15.3,207.0
+PT-00615,Danny,Weiss,1996-10-23,2022-10-30,Non-binary,,(457) 460-5302,,TX,77947.0,Emergency,18.0,427.0,13.4,250.0
+PT-00878,Christopher,Villanueva,1970-06-06,2023-04-02,Female,A-,(236) 396-1421,brenda36@example.com,TX,79929.0,Cardiology,17.0,455.0,,139.0
+PT-00175,Douglas,Campbell,1951-06-19,2023-11-27,Female,O-,(001) 641-3601,trujillotimothy@example.com,TX,75997.0,Emergency,12.0,402.0,13.4,156.0
+PT-00918,Stephanie,Hoffman,1989-12-21,2020-12-31,Female,A-,(001) 615-2029,michele96@example.org,TX,77710.0,Phlebotomy,15.0,458.0,17.3,138.0
+PT-00059,Jillian,Perez,2049-07-24,2022-08-10,Female,B+,(220) 444-6146,bonillajuan@example.net,TX,78449.0,Oncology,15.0,406.0,,141.0
+PT-00266,Karen,Hernandez,1993-08-18,2018-07-19,Male,A+,(905) 719-3140,thebert@example.org,TX,76424.0,General,15.0,429.0,14.5,124.0
+PT-00064,Eric,Cochran,2003-05-17,2020-05-26,Male,O+,(001) 314-5504,hayestammy@example.com,TX,79081.0,General,11.0,469.0,14.0,125.0
+PT-00790,Danielle,Hawkins,1950-06-26,2021-06-15,Male,O+,,xcline@example.com,TX,77182.0,Emergency,8.0,457.0,13.3,193.0
+PT-00262,Kenneth,Nicholson,1988-05-19,2019-06-29,Female,A-,(276) 770-6903,fcrawford@example.com,TX,77878.0,General,18.0,450.0,14.4,167.0
+PT-00101,Tina,Foster,1982-03-02,2021-11-26,Non-binary,AB-,(834) 617-1781,billy29@example.org,TX,77805.0,Cardiology,4.0,420.0,13.1,236.0
+PT-00925,Kevin,Taylor,2046-03-30,2018-12-14,Male,AB-,(996) 598-8814,alvarezsandra@example.net,TX,76211.0,General,6.0,455.0,11.4,119.0
+PT-00300,Theresa,Porter,1969-02-07,2022-04-27,Male,AB+,,bduncan@example.com,TX,76254.0,General,13.0,499.0,11.6,253.0
+PT-00616,Kelly,Davis,1962-10-17,2022-01-14,Male,A+,(001) 704-9897,emilystrickland@example.net,TX,76344.0,General,1.0,492.0,11.2,182.0
+PT-00179,Jonathan,Thompson,1994-10-11,2021-03-13,,B-,(122) 735-2990,erin15@example.net,TX,78407.0,Emergency,8.0,439.0,17.3,230.0
+PT-00934,David,Turner,2000-04-29,2019-07-28,Male,B-,,amy97@example.org,TX,75817.0,Phlebotomy,11.0,466.0,14.8,202.0
+PT-00779,Kelly,Adams,1996-04-10,2018-04-03,Non-binary,O+,(209) 218-7219,pauljohnson@example.net,TX,77896.0,Oncology,5.0,460.0,13.3,223.0
+PT-00140,Joshua,Bennett,1951-05-16,2022-09-21,Male,A-,(693) 363-0822,anthony36@example.net,TX,75955.0,General,15.0,499.0,13.4,261.0
+PT-00804,Evan,Carter,2072-01-23,2019-10-31,Male,AB+,(771) 598-6384,kristen34@example.com,TX,75918.0,Cardiology,14.0,481.0,16.9,201.0
+PT-00169,Matthew,Chang,1992-01-24,2024-03-20,Male,O-,(001) 684-4353,hfrost@example.net,TX,79883.0,Emergency,7.0,441.0,14.9,238.0
+PT-00067,Adrian,Turner,1974-11-20,2021-10-08,Prefer not to say,A+,(469) 579-4032,kingshannon@example.net,TX,79479.0,General,5.0,479.0,,210.0
+PT-00257,Dustin,Castaneda,1985-10-14,2022-12-30,,O-,(180) 923-8179,nicholashickman@example.net,TX,,Emergency,17.0,453.0,14.0,124.0
+PT-00068,Jason,Guzman,1993-02-06,2024-04-30,Male,A-,(152) 959-8930,,TX,77353.0,General,5.0,459.0,,176.0
+PT-00013,Tyler,Perry,1978-08-06,2024-07-18,Male,AB-,(387) 275-2803,usanchez@example.com,TX,77124.0,Oncology,5.0,465.0,14.2,122.0
+PT-00532,Jessica,Proctor,1973-12-06,2022-04-28,Female,A-,(162) 460-9222,xflores@example.net,TX,76424.0,Emergency,7.0,466.0,16.6,239.0
+PT-00985,Brandon,Carr,2062-12-28,2021-12-26,Prefer not to say,O-,(751) 673-6555,,TX,77609.0,Emergency,15.0,423.0,12.6,121.0
+PT-00867,Sharon,York,1947-07-28,2022-08-25,Non-binary,O-,(337) 312-4078,,TX,,General,13.0,473.0,12.5,115.0
+PT-00577,Thomas,Wagner,1989-03-15,2018-08-09,Male,O+,,phughes@example.com,TX,76607.0,Phlebotomy,3.0,413.0,,
+PT-00335,Jeremy,Horton,1951-05-20,2019-06-28,Female,B+,(968) 211-0306,godom@example.org,TX,76323.0,Cardiology,8.0,497.0,16.5,210.0
+PT-00287,Paul,Barrera,1975-08-10,2018-11-20,Non-binary,O+,(933) 304-6271,brodriguez@example.net,TX,76132.0,Cardiology,,431.0,17.4,167.0
+PT-00912,Erica,Tapia,1985-07-17,2020-06-18,Non-binary,A+,(440) 723-8835,tkaufman@example.org,TX,76729.0,Cardiology,10.0,,15.6,216.0
+PT-00324,Dennis,White,1974-11-07,2022-09-10,Female,,(872) 735-6946,ybarker@example.net,TX,79471.0,General,6.0,462.0,,
+PT-00891,Beth,Wheeler,2053-10-29,2019-05-09,Non-binary,O-,(650) 341-0651,andersonmarcus@example.com,TX,77225.0,Emergency,10.0,,,201.0
+PT-00537,Erin,Parsons,1965-05-31,2024-09-16,Prefer not to say,O+,,deborah27@example.org,TX,78534.0,Phlebotomy,1.0,490.0,15.8,111.0
+PT-00693,Jennifer,Burns,1982-08-23,2019-04-08,Non-binary,O-,(833) 804-2047,michael30@example.net,TX,79171.0,General,6.0,436.0,16.0,
+PT-00650,Charles,Burton,2062-02-20,2022-10-18,Female,A+,(693) 386-5325,nweeks@example.org,TX,77710.0,Phlebotomy,13.0,492.0,13.0,266.0
+PT-00529,Linda,Johnson,1976-05-16,2024-09-20,Male,O+,(762) 925-2583,ann82@example.org,TX,75786.0,Phlebotomy,7.0,457.0,14.9,230.0
+PT-00586,Jonathan,Fuller,1973-11-12,2020-06-22,Male,A-,(137) 396-2072,dylan44@example.com,TX,75668.0,Phlebotomy,8.0,466.0,,
+PT-00003,Garrett,Petty,1942-05-19,2024-04-17,Female,O+,(212) 436-5942,udiaz@example.net,TX,78854.0,Oncology,15.0,475.0,12.8,111.0
+PT-00446,Susan,Brown,1982-10-30,2022-04-20,Male,O+,,christopher65@example.net,TX,78178.0,Emergency,7.0,493.0,13.4,113.0
+PT-00238,Alexander,Bates,1965-12-05,2020-04-29,Prefer not to say,AB-,(001) 891-5975,uharmon@example.org,TX,77560.0,Phlebotomy,12.0,471.0,17.1,180.0
+PT-00496,Oscar,Holt,1995-09-22,2020-09-25,Male,AB-,,joshua36@example.com,TX,79774.0,General,4.0,449.0,12.7,182.0
+PT-00782,Todd,Butler,1989-03-16,2022-12-29,Female,AB+,,nstevenson@example.com,TX,76872.0,Oncology,5.0,439.0,12.1,
+PT-00328,Rachel,Guerrero,1942-10-08,2020-06-22,Non-binary,,(861) 242-7551,sharonwoodward@example.org,TX,77164.0,Cardiology,8.0,468.0,12.9,227.0
+PT-00548,John,Ferguson,2047-10-16,2021-02-04,Prefer not to say,AB-,,jchang@example.org,TX,79754.0,General,13.0,475.0,,113.0
+PT-00859,John,Lopez,2001-12-18,2020-09-08,Non-binary,O+,(222) 968-9192,williamsisaac@example.net,TX,78025.0,Phlebotomy,12.0,487.0,11.8,170.0
+PT-00530,Kristi,Smith,1983-03-19,2019-11-30,Female,B-,(142) 849-6485,idecker@example.com,TX,76191.0,Phlebotomy,5.0,,16.3,156.0
+PT-00347,Julie,Hayes,1997-07-23,2019-08-09,Male,A+,(001) 683-9332,,TX,78527.0,Emergency,6.0,456.0,13.3,164.0
+PT-00884,Kimberly,Williams,1956-03-16,2019-11-21,Non-binary,B-,(468) 744-1790,julieburnett@example.net,TX,79539.0,Emergency,1.0,,16.0,156.0
+PT-00584,Dylan,Hall,1966-11-17,2018-02-07,Prefer not to say,,(654) 460-4884,daltonadams@example.net,TX,76321.0,Emergency,8.0,400.0,14.6,158.0
+PT-00594,Beth,King,2057-11-13,2023-03-03,Male,B-,(253) 594-8273,angelafrazier@example.com,TX,77773.0,General,13.0,,17.2,192.0
+PT-00588,Sandra,Lopez,1949-11-25,2023-02-09,Prefer not to say,AB+,(646) 349-1573,,TX,75920.0,Emergency,16.0,424.0,13.1,148.0
+PT-00309,Brittney,Contreras,1976-09-14,2023-08-08,Female,A+,(169) 427-8981,ricedawn@example.org,TX,76317.0,Emergency,9.0,484.0,12.0,218.0
+PT-00994,Jamie,Walsh,1943-12-09,2018-05-02,Male,B-,(698) 274-2307,nhoward@example.net,TX,76562.0,Phlebotomy,6.0,428.0,16.8,
+PT-00232,Samuel,Rice,1977-05-15,2024-07-18,Non-binary,B-,(609) 530-8839,madison33@example.net,TX,77697.0,General,16.0,433.0,17.3,258.0
+PT-00630,Jonathan,Harmon,1944-01-10,2020-08-14,Female,AB-,(802) 616-2226,daniel66@example.net,TX,77259.0,Oncology,3.0,414.0,15.8,172.0
+PT-00602,Vanessa,Martin,1990-11-03,2020-02-04,Male,AB-,,sheila48@example.net,TX,79494.0,General,9.0,476.0,16.9,251.0
+PT-00663,Tammy,Olson,1964-12-13,2024-12-13,Male,A+,(815) 993-2735,sgregory@example.net,TX,76497.0,Oncology,5.0,407.0,15.2,119.0
+PT-00916,Timothy,Davis,1972-01-12,2019-10-12,Female,A+,(379) 374-9633,kingjonathan@example.com,TX,79945.0,Phlebotomy,11.0,455.0,11.7,
+PT-00315,Carrie,Elliott,1950-05-31,2019-08-04,Male,AB+,,nicole29@example.net,TX,79198.0,General,15.0,,,233.0
+PT-00107,Brittany,Davis,1953-10-24,2023-04-08,Female,AB+,,bstafford@example.net,TX,77605.0,Emergency,16.0,460.0,,251.0
+PT-00824,Kristen,Robinson,2075-07-24,2022-11-30,Non-binary,AB+,(384) 240-3280,kingkathleen@example.net,TX,78649.0,Oncology,13.0,451.0,15.5,136.0
+PT-00056,Laurie,Kennedy,1955-03-23,2018-12-14,Non-binary,A+,(887) 299-2861,maddenmichael@example.org,TX,77142.0,Phlebotomy,8.0,486.0,13.0,160.0
+PT-00121,Emily,Stephens,1954-03-04,2018-10-30,Prefer not to say,A+,(519) 742-8723,wanda19@example.com,TX,76208.0,Oncology,10.0,481.0,17.3,174.0
+PT-00371,Marc,Brown,1943-12-09,2020-08-06,Prefer not to say,AB-,(001) 806-6069,timothylester@example.com,TX,76439.0,General,3.0,474.0,11.6,144.0
+PT-00026,John,Martin,2000-05-29,2019-02-08,Male,O+,(647) 625-9876,arellanocaroline@example.org,TX,79360.0,Cardiology,4.0,431.0,,247.0
+PT-00073,Melissa,Rice,1994-06-24,2019-04-15,Female,,(360) 616-4667,craigmartin@example.org,TX,75914.0,Emergency,19.0,403.0,17.0,257.0
+PT-00550,Andre,Bird,2060-04-20,2024-10-19,,,(560) 328-4744,tgoodwin@example.com,TX,79419.0,General,19.0,400.0,12.7,214.0
+PT-00045,Kimberly,Stokes,1961-03-28,2019-10-28,Female,O+,(515) 487-7681,zowens@example.net,TX,,Phlebotomy,6.0,494.0,17.0,215.0
+PT-00297,Joe,Arnold,2053-11-03,2022-05-15,Non-binary,AB-,(245) 788-1807,gsantiago@example.org,TX,78626.0,Phlebotomy,3.0,400.0,17.1,223.0
+PT-00329,Heather,Deleon,1990-09-30,2023-07-22,Male,A-,,,TX,78016.0,Cardiology,18.0,446.0,14.5,120.0
+PT-00248,Rachel,Lewis,1998-02-28,2020-11-19,Male,A+,(837) 685-2794,rschaefer@example.net,TX,,General,10.0,472.0,15.4,159.0
+PT-00337,James,Price,1976-02-21,2023-10-13,,AB-,(577) 332-9832,gholloway@example.com,TX,79217.0,Emergency,16.0,441.0,14.8,133.0
+PT-00352,Tammy,Brown,1993-04-13,2018-10-18,Male,AB-,(198) 571-0398,rojasgabriel@example.org,TX,79429.0,Cardiology,5.0,449.0,16.6,255.0
+PT-00362,Paige,Powell,1954-12-21,2022-02-15,,AB+,(452) 547-2374,bcross@example.com,TX,76010.0,Phlebotomy,19.0,486.0,15.7,168.0
+PT-00738,Christina,Adams,2048-02-18,2022-02-05,Non-binary,A-,(627) 776-8858,cindybrewer@example.org,TX,76679.0,Phlebotomy,10.0,482.0,,251.0
+PT-00961,Rachel,Rodriguez,2001-01-02,2022-04-07,Non-binary,B-,(984) 696-0049,nathanielgilbert@example.com,TX,78849.0,Emergency,17.0,436.0,11.3,246.0
+PT-00421,Christopher,Wong,1960-06-13,2019-05-07,,O-,(453) 221-5719,lrodriguez@example.net,TX,77238.0,Emergency,9.0,493.0,13.7,275.0
+PT-00382,Andrew,Harris,1971-10-03,2020-05-29,Female,A+,(784) 968-8878,troykrause@example.org,TX,75589.0,Cardiology,15.0,419.0,11.2,268.0
+PT-00695,Richard,Hudson,1987-10-18,2023-03-04,Prefer not to say,A+,(410) 804-6404,nathanieldean@example.com,TX,77268.0,Oncology,20.0,431.0,14.6,233.0
+PT-00540,Angela,Hawkins,1990-08-29,2022-02-06,Non-binary,O+,,ashleywatson@example.net,TX,79894.0,Oncology,14.0,470.0,16.1,233.0
+PT-00450,Jason,Moore,2072-03-24,2020-02-11,Female,A+,(815) 327-3857,mmiller@example.net,TX,77720.0,Phlebotomy,8.0,428.0,,143.0
+PT-00623,Toni,Rivera,1988-06-09,2024-05-02,Female,AB-,(001) 603-8992,andrew06@example.org,TX,78700.0,Emergency,8.0,419.0,11.3,210.0
+PT-00210,Michael,Walker,2067-09-30,2022-06-19,Prefer not to say,,(452) 278-1056,ocooper@example.net,TX,79067.0,General,19.0,409.0,11.8,191.0
+PT-00555,Maria,Clark,1962-04-09,2021-03-22,,O+,(001) 482-7143,sandersbreanna@example.org,TX,77480.0,General,3.0,470.0,17.1,231.0
+PT-00482,James,Hopkins,1966-10-25,2024-02-22,Prefer not to say,B-,(121) 996-5440,jessicasmith@example.net,TX,77919.0,Oncology,7.0,,15.6,198.0
+PT-00433,Benjamin,Miller,1990-05-15,2024-08-29,Non-binary,,(161) 146-1143,ugilbert@example.net,TX,76272.0,General,16.0,408.0,13.2,180.0
+PT-00627,Richard,Nelson,2057-08-04,2024-04-17,Non-binary,B-,(510) 918-3562,richdouglas@example.com,TX,79586.0,Phlebotomy,9.0,499.0,13.8,257.0
+PT-00061,James,Bryant,1989-02-24,2023-01-01,Female,O-,(895) 657-6313,,TX,78001.0,General,9.0,496.0,12.6,273.0
+PT-00622,Charles,Smith,1977-05-14,2019-09-05,Male,A+,(757) 469-5718,kylegonzalez@example.org,TX,78085.0,General,2.0,439.0,14.4,191.0
+PT-00756,Oscar,Santos,2058-10-20,2022-11-16,Non-binary,AB+,(713) 203-9575,robertsavage@example.net,TX,76226.0,Emergency,15.0,405.0,11.7,123.0
+PT-00093,Debra,Thompson,2061-07-08,2019-12-13,Male,A+,(933) 474-3281,munozangela@example.net,TX,79829.0,Phlebotomy,14.0,457.0,,230.0
+PT-00902,Walter,Martin,1982-10-21,2023-02-28,Prefer not to say,O-,(001) 518-7260,crystal75@example.com,TX,75983.0,Cardiology,20.0,478.0,13.3,211.0
+PT-00463,Stephanie,Jones,2001-11-22,2023-05-13,Female,B+,(828) 908-5394,troy52@example.net,TX,76839.0,Phlebotomy,5.0,489.0,15.7,150.0
+PT-00667,Jaclyn,Mcintyre,1950-12-12,2021-01-29,Non-binary,O+,(001) 998-6207,warrenmelissa@example.net,TX,78751.0,Emergency,7.0,489.0,12.4,124.0
+PT-00977,Teresa,Whitaker,1996-02-05,2019-02-01,Male,O-,(241) 590-1190,geoffrey57@example.net,TX,76599.0,General,1.0,475.0,16.2,195.0
+PT-00478,Ian,Miller,1981-01-12,2024-08-10,Female,O+,(865) 358-8260,mortiz@example.net,TX,77214.0,General,17.0,494.0,11.3,220.0
+PT-00333,Brent,Cooper,1945-04-29,2024-05-24,Male,AB+,(001) 785-2074,lgarcia@example.com,TX,79882.0,Emergency,18.0,421.0,13.1,184.0
+PT-00939,Rhonda,Morton,2050-08-04,2020-05-20,Prefer not to say,O-,(001) 816-5698,lisa06@example.net,TX,76045.0,Phlebotomy,6.0,471.0,13.4,140.0
+PT-00701,Danny,Riley,1980-02-12,2020-03-12,Male,AB-,,jacksonkathy@example.org,TX,79747.0,Cardiology,19.0,486.0,,221.0
+PT-00465,Tammy,Benson,2042-08-02,2019-06-20,Prefer not to say,O-,(634) 377-7032,aliciairwin@example.org,TX,79575.0,Phlebotomy,14.0,456.0,11.3,176.0
+PT-00356,Theresa,West,2053-12-09,2024-01-07,Non-binary,A+,(580) 884-5411,raveneaton@example.net,TX,78960.0,Cardiology,3.0,439.0,15.5,171.0
+PT-00363,Leonard,Mathis,1985-08-25,2018-01-11,Male,A+,(323) 337-0962,moorealex@example.net,TX,75833.0,Oncology,2.0,460.0,13.4,148.0
+PT-00313,Sandra,Cooper,2059-12-01,,,O-,(001) 776-2031,tatealan@example.net,TX,78384.0,Cardiology,13.0,459.0,16.0,260.0
+PT-00319,Tyler,Myers,1975-06-28,2018-04-30,Female,O+,(001) 236-7425,john60@example.org,TX,75544.0,Cardiology,14.0,449.0,11.0,164.0
+PT-00974,Deanna,Parks,1981-11-10,2023-07-23,Non-binary,A+,(312) 244-6287,tcoleman@example.net,TX,,Oncology,2.0,435.0,17.0,246.0
+PT-00381,Marie,Gardner,2044-07-17,2019-11-20,Prefer not to say,,(315) 797-6784,mariavasquez@example.com,TX,78708.0,General,1.0,448.0,15.4,154.0
+PT-00183,Michelle,Holder,2053-03-21,2022-11-27,Male,A+,,gbean@example.org,TX,76142.0,General,12.0,403.0,13.7,211.0
+PT-00717,Diane,Wood,1962-08-12,2019-06-27,Non-binary,,(736) 694-7026,jessica65@example.net,TX,77420.0,Cardiology,1.0,494.0,11.7,154.0
+PT-00111,Stacey,Carr,1980-11-06,2021-08-11,Female,A+,(701) 572-6324,,TX,77270.0,Emergency,13.0,429.0,16.6,215.0
+PT-00531,Samuel,Pacheco,1995-11-29,2023-09-24,Non-binary,B+,(889) 682-0323,,TX,,Cardiology,15.0,476.0,,168.0
+PT-00378,Dawn,Williams,1989-11-16,2024-03-03,Female,A-,(001) 668-9707,efrank@example.com,TX,76363.0,General,4.0,417.0,11.8,125.0
+PT-00714,Christina,Lee,1985-12-28,2023-06-04,Non-binary,O+,(122) 038-1996,austin63@example.com,TX,75875.0,Cardiology,10.0,437.0,12.1,262.0
+PT-00873,Carlos,Fritz,1961-02-15,2024-12-05,,B-,(722) 780-4682,sherrimoore@example.net,TX,77913.0,Cardiology,19.0,487.0,15.2,131.0
+PT-00940,Lisa,Mcintyre,1993-12-21,2022-08-01,Male,,(001) 932-2684,ericarodriguez@example.org,TX,78395.0,Cardiology,19.0,437.0,11.3,149.0
+PT-00732,Calvin,Clark,1984-02-11,2020-04-01,Female,,(897) 825-7849,beckergabriel@example.org,TX,79060.0,General,4.0,418.0,14.5,220.0
+PT-00293,George,Graves,1974-06-08,2019-07-28,Male,AB-,(947) 919-2026,michael41@example.com,TX,78978.0,Phlebotomy,4.0,455.0,12.5,129.0
+PT-00437,Sherry,Blevins,1970-10-14,2020-06-29,Prefer not to say,A+,,npham@example.org,TX,75512.0,Emergency,10.0,421.0,16.5,252.0
+PT-00836,Zachary,Terrell,1951-07-02,2022-02-09,Non-binary,A+,(144) 155-5119,william55@example.org,TX,79282.0,Cardiology,13.0,412.0,13.8,201.0
+PT-00308,Jennifer,Lopez,2001-02-27,2024-03-03,,O+,(329) 882-5892,simmonserica@example.net,TX,79259.0,Cardiology,15.0,,16.4,127.0
+PT-00290,David,Ramos,1948-07-21,2023-12-04,Male,B-,,smithtravis@example.net,TX,78774.0,Oncology,19.0,460.0,,129.0
+PT-00969,Mary,Scott,1996-02-03,2021-05-26,Male,B-,(974) 224-8060,jjohnson@example.com,TX,79803.0,General,12.0,404.0,12.8,265.0
+PT-00216,Wendy,Hopkins,1990-07-25,2018-06-18,Female,B-,(770) 559-0274,paul65@example.net,TX,,Phlebotomy,19.0,433.0,15.2,256.0
+PT-00631,Noah,Roberts,1995-09-18,2019-08-28,Non-binary,A+,(333) 204-7946,morrisjamie@example.net,TX,,Cardiology,4.0,439.0,,115.0
+PT-00281,Christopher,Sweeney,1955-03-09,2019-07-28,Prefer not to say,AB+,(001) 835-3161,tonya46@example.org,TX,78179.0,Emergency,2.0,467.0,11.2,129.0
+PT-00674,Tara,Johnson,1955-10-04,2020-03-05,Non-binary,AB-,(517) 660-9176,raymondglover@example.com,TX,76051.0,General,16.0,404.0,,233.0
+PT-00451,Brian,Ruiz,1958-12-12,2018-03-31,Female,O+,(413) 751-9540,sabrinamurphy@example.net,TX,76087.0,Emergency,2.0,448.0,16.7,175.0
+PT-00299,Scott,Carlson,1985-12-21,2022-07-30,Non-binary,A+,(517) 862-2363,,TX,76088.0,Cardiology,12.0,470.0,,263.0
+PT-00786,Denise,Martin,1999-09-16,2021-07-22,Non-binary,,(323) 291-4774,sarahdean@example.net,TX,,Cardiology,15.0,469.0,17.3,246.0
+PT-00138,Raymond,Carr,1940-04-02,2021-02-09,Female,B+,(543) 697-1760,carolyn72@example.com,TX,79432.0,Emergency,9.0,422.0,11.7,116.0
+PT-00306,Maria,Kelly,1955-12-08,2022-06-20,Non-binary,AB+,(127) 525-2615,dthomas@example.net,TX,78060.0,Phlebotomy,19.0,500.0,12.6,206.0
+PT-00808,Curtis,Ware,1976-12-17,2021-10-25,Female,A+,(868) 558-3353,aholland@example.net,TX,75732.0,Oncology,5.0,464.0,12.4,158.0
+PT-00295,Eric,Austin,2060-06-19,2021-12-28,Male,O+,,johnsondaniel@example.com,TX,79060.0,Oncology,19.0,484.0,,268.0
+PT-00600,Laura,Andrade,1968-05-31,2024-04-06,Non-binary,A+,(294) 741-2896,campbellhenry@example.com,TX,77554.0,Oncology,1.0,488.0,13.5,144.0
+PT-00582,James,Warner,1979-08-22,2021-06-15,Non-binary,B+,(001) 371-7897,shepherdnicole@example.com,TX,78276.0,Cardiology,5.0,438.0,11.1,
+PT-00030,Stacy,Hodge,1975-01-10,2020-12-22,Female,O+,(690) 943-8153,stephen94@example.com,TX,75889.0,General,18.0,484.0,15.7,149.0
+PT-00166,Amanda,King,1980-04-09,2024-05-01,,AB-,(691) 368-5670,fcunningham@example.com,TX,78693.0,Cardiology,15.0,408.0,14.0,271.0
+PT-00249,Danny,Rose,2055-09-29,2024-11-07,Female,O+,(929) 583-8627,patricia49@example.net,TX,77346.0,General,11.0,411.0,13.6,134.0
+PT-00311,Jason,Newman,1988-10-09,2018-05-31,Male,A-,,hgreen@example.org,TX,78086.0,Phlebotomy,8.0,484.0,15.3,152.0
+PT-00686,Steven,Brock,1990-03-16,2023-10-07,Male,A+,(186) 343-3698,wdiaz@example.net,TX,79038.0,Emergency,12.0,470.0,13.1,146.0
+PT-00844,Elizabeth,Lyons,1978-04-26,2020-05-09,Non-binary,,,danielball@example.net,TX,79086.0,Cardiology,17.0,438.0,,248.0
+PT-00343,Brian,Garcia,2005-02-17,2020-08-17,Non-binary,,(499) 949-3382,justinparsons@example.com,TX,76562.0,Phlebotomy,1.0,427.0,14.1,143.0
+PT-00606,Mason,Vega,1965-05-26,2021-08-14,Prefer not to say,AB+,(206) 371-0801,,TX,78626.0,Phlebotomy,4.0,466.0,15.3,121.0
+PT-00527,Debra,Holmes,1982-12-22,2020-05-13,Female,O+,(423) 724-1438,kelly90@example.org,TX,79342.0,General,8.0,405.0,11.8,261.0
+PT-00066,Kimberly,Ellis,1966-10-15,2022-05-17,Male,B-,(360) 246-4207,webercraig@example.net,TX,76952.0,General,8.0,434.0,,117.0
+PT-00632,Benjamin,Brooks,1969-10-09,2020-05-06,Female,A+,(473) 234-7378,smithcarlos@example.com,TX,76726.0,Emergency,17.0,496.0,12.7,233.0
+PT-00892,Matthew,Myers,1999-09-15,2019-01-29,Non-binary,O+,(167) 684-8974,jeremy55@example.org,TX,79215.0,Phlebotomy,15.0,449.0,14.1,254.0
+PT-00255,Robert,Rivera,1987-05-21,2022-01-21,Male,A-,(853) 526-2066,tiffanysanchez@example.net,TX,77999.0,Phlebotomy,18.0,464.0,12.3,247.0
+PT-00719,Jeffrey,Moyer,1956-03-21,2023-12-01,Male,A+,(226) 757-7327,erichays@example.net,TX,79489.0,Cardiology,5.0,476.0,17.1,149.0
+PT-00771,Jacob,Williams,1964-03-15,2024-11-13,Female,O+,(001) 307-4272,amy59@example.net,TX,77429.0,Emergency,11.0,494.0,17.1,241.0
+PT-00222,Timothy,Taylor,1969-05-17,2024-06-24,Non-binary,B-,(781) 803-1212,johnsonlisa@example.net,TX,76041.0,Oncology,16.0,465.0,14.0,188.0
+PT-00236,Allison,Roman,1999-05-30,2023-05-14,Prefer not to say,AB-,(583) 815-3720,sharon35@example.net,TX,79811.0,Emergency,15.0,468.0,13.2,200.0
+PT-00430,Jacqueline,Gordon,1982-07-14,2019-06-26,Female,AB+,(147) 870-6577,perrypaul@example.net,TX,76899.0,General,9.0,477.0,16.2,188.0
+PT-00544,Amanda,Wright,1993-11-06,2022-11-19,Male,A-,(668) 858-9448,ppollard@example.org,TX,76194.0,Cardiology,8.0,447.0,11.5,
+PT-00441,Dorothy,Stewart,1992-05-09,2024-07-04,Male,O-,(581) 459-7002,harrellkelly@example.org,TX,77539.0,Oncology,17.0,415.0,16.6,207.0
+PT-00589,Judith,Rose,1944-06-14,2024-01-01,Male,B+,,sharonchavez@example.org,TX,77870.0,Phlebotomy,10.0,434.0,11.8,
+PT-00973,Jeffrey,Gonzalez,1980-09-21,2018-01-09,Female,,(551) 845-9860,oflynn@example.org,TX,76468.0,Cardiology,14.0,452.0,12.8,242.0
+PT-00250,Jennifer,Green,2056-07-29,2019-07-30,Prefer not to say,A+,(761) 836-4004,lesterallison@example.com,TX,77617.0,Oncology,1.0,433.0,13.5,224.0
+PT-00579,Amy,Harris,1987-04-04,2019-11-30,,A+,(158) 192-4319,james13@example.org,TX,76983.0,Cardiology,11.0,460.0,14.0,248.0
+PT-00410,Tara,Johnston,1979-06-14,2023-03-20,Male,B-,(207) 765-0625,josephyoung@example.com,TX,77301.0,Cardiology,19.0,407.0,12.0,280.0
+PT-00072,Michael,Smith,2051-04-29,2023-04-24,Male,B-,(224) 253-0406,,TX,77933.0,General,9.0,498.0,,265.0
+PT-00095,James,Arnold,1996-01-28,2024-08-12,Female,A+,(154) 836-1135,reedconnie@example.com,TX,76737.0,Phlebotomy,18.0,428.0,15.2,178.0
+PT-00034,Michael,Taylor,1995-07-26,2018-12-02,Male,AB-,(124) 088-8587,morganpaul@example.com,TX,77452.0,Cardiology,7.0,485.0,15.7,171.0
+PT-00645,Catherine,Jones,2064-07-24,2019-09-15,Male,B+,(932) 306-7459,jeffrey34@example.org,TX,79904.0,Oncology,6.0,403.0,16.0,266.0
+PT-00260,Erica,Flores,1982-05-08,2018-05-10,Non-binary,,(369) 962-7558,wrivera@example.com,TX,77672.0,Oncology,5.0,498.0,15.2,275.0
+PT-00205,Linda,Stephenson,2005-12-31,2020-02-02,Female,A+,(379) 221-6144,alexandramorrison@example.org,TX,79412.0,Emergency,4.0,,16.0,224.0
+PT-00799,Linda,Donovan,1992-07-02,2021-05-29,Prefer not to say,O-,(408) 850-7561,brianrobinson@example.com,TX,77100.0,Oncology,1.0,400.0,12.0,186.0
+PT-00621,Renee,King,1993-05-26,2021-05-15,Male,O+,(153) 537-3504,david91@example.net,TX,79670.0,Phlebotomy,2.0,498.0,13.2,221.0
+PT-00366,Dana,Howard,1944-02-13,2022-07-01,Male,O-,(647) 484-8551,carlawilliams@example.com,TX,78412.0,Phlebotomy,10.0,441.0,,226.0
+PT-00078,Danny,Moore,1983-05-18,2023-03-20,Prefer not to say,AB+,(312) 847-5541,patriciahughes@example.com,TX,78756.0,Cardiology,8.0,411.0,12.8,225.0
+PT-00085,Allison,Lyons,2001-12-01,2020-01-29,Female,B-,,anthony49@example.org,TX,76854.0,Cardiology,9.0,492.0,14.8,244.0
+PT-00995,Earl,Henry,1970-06-27,2024-03-21,Male,B+,(851) 483-1510,danielcastaneda@example.net,TX,79171.0,Oncology,1.0,422.0,,135.0
+PT-00083,James,Hardin,1992-03-04,2022-02-20,Non-binary,A+,(691) 906-4397,dakotalittle@example.com,TX,79688.0,General,18.0,442.0,13.3,226.0
+PT-00526,Michelle,Matthews,1972-06-30,2024-10-01,Male,O-,(607) 886-8247,nguyendavid@example.org,TX,78070.0,General,,492.0,11.7,232.0
+PT-00568,Nina,King,1975-09-28,2019-02-10,Female,A+,(419) 744-0247,,TX,76329.0,Oncology,9.0,460.0,16.5,134.0
+PT-00561,William,Reese,2042-12-03,2023-08-21,Non-binary,O+,(122) 629-6728,hmartin@example.com,TX,76914.0,Oncology,15.0,415.0,,227.0
+PT-00543,Jessica,Jordan,1989-05-24,2024-11-20,,B+,(239) 759-3701,anthony10@example.org,TX,75701.0,General,1.0,411.0,16.4,230.0
+PT-00888,Daniel,Shaffer,1969-02-23,2024-05-20,Male,B-,(754) 526-1880,weissmelanie@example.net,TX,79332.0,Phlebotomy,10.0,441.0,16.2,128.0
+PT-00332,Zachary,Smith,1992-09-29,2021-12-07,Prefer not to say,B+,(982) 739-6067,vjohnson@example.net,TX,76765.0,Emergency,5.0,500.0,12.3,162.0
+PT-00006,Christopher,Baxter,1951-03-14,2022-03-31,Male,A+,(992) 348-8650,taylormichael@example.com,TX,78452.0,Emergency,12.0,473.0,12.2,127.0
+PT-00480,Lori,Hale,2068-11-15,2023-08-27,Prefer not to say,O+,(783) 641-9968,davidking@example.net,TX,76150.0,Phlebotomy,8.0,435.0,13.6,
+PT-00105,Stefanie,Abbott,2002-08-23,2023-06-09,Male,A+,(136) 676-3424,paul48@example.net,TX,78007.0,Emergency,8.0,490.0,12.0,251.0
+PT-00098,Dennis,Robinson,1947-03-20,2024-09-15,Male,O+,(128) 364-8494,ajohns@example.org,TX,75703.0,Cardiology,20.0,432.0,11.2,168.0
+PT-00833,Melvin,White,1955-11-13,2024-03-30,Non-binary,B+,(001) 254-3970,farrellhannah@example.com,TX,79849.0,General,14.0,417.0,13.0,209.0
+PT-00788,Christopher,Collins,1940-05-20,2024-02-16,Male,AB+,(302) 917-2840,kingmadison@example.org,TX,,General,10.0,496.0,,
+PT-00425,Jason,Cardenas,1972-04-30,2020-03-26,Non-binary,AB-,(854) 941-6215,michelle17@example.net,TX,78233.0,General,17.0,450.0,15.1,141.0
+PT-00935,Kelly,Erickson,1980-10-03,2019-02-06,Female,O+,(694) 339-9545,,TX,78802.0,General,3.0,411.0,11.4,143.0
+PT-00282,Amy,Sampson,1999-12-13,,Male,O+,(709) 701-3733,ayoung@example.com,TX,79140.0,Oncology,8.0,408.0,15.6,112.0
+PT-00267,Taylor,Oliver,1952-07-27,2023-08-26,Female,B-,(907) 369-5556,alyssa31@example.net,TX,79852.0,Emergency,11.0,473.0,14.9,192.0
+PT-00535,Mitchell,Walker,1978-09-17,,Female,AB-,,hillsandra@example.org,TX,75783.0,Emergency,17.0,454.0,12.5,233.0
+PT-00454,Tracy,Benton,1940-10-31,2021-05-18,Prefer not to say,A-,(144) 072-3488,timothyking@example.com,TX,77592.0,Emergency,9.0,,14.9,145.0
+PT-00360,Johnathan,Bryan,2005-10-02,2019-04-29,Male,B-,(001) 415-9404,carrillocynthia@example.com,TX,79397.0,General,9.0,467.0,11.4,257.0
+PT-00491,Jessica,Johnson,2054-06-09,,,A+,(215) 558-1496,tammydougherty@example.com,TX,,Cardiology,15.0,490.0,17.1,120.0
+PT-00992,Bethany,Watts,2005-11-25,2021-09-19,,B-,(906) 486-6678,christinajackson@example.net,TX,76897.0,General,6.0,400.0,13.4,128.0
+PT-00817,Samuel,Powell,2061-09-11,2023-08-31,Female,A+,(648) 298-3748,xwallace@example.com,TX,75994.0,Emergency,1.0,467.0,12.4,159.0
+PT-00119,Abigail,Flowers,1955-04-02,2019-12-19,Male,,(556) 847-5859,brianreid@example.org,TX,76268.0,Emergency,8.0,463.0,16.9,146.0
+PT-00635,Megan,Bishop,1999-06-24,2022-01-15,Non-binary,A+,(748) 328-1304,bmaxwell@example.net,TX,77516.0,Cardiology,13.0,429.0,17.4,240.0
+PT-00251,Allison,Clark,2063-12-14,2021-09-12,Non-binary,,(743) 309-9788,davidcastro@example.com,TX,78287.0,Cardiology,12.0,488.0,12.5,280.0
+PT-00406,Angela,Miller,2053-10-11,2018-08-12,Female,A+,(236) 352-8714,todd73@example.org,TX,76834.0,General,3.0,437.0,16.4,270.0
+PT-00718,Anthony,Pitts,1993-02-02,2019-09-12,Prefer not to say,AB-,(547) 250-2964,larryjones@example.org,TX,78508.0,Oncology,9.0,500.0,15.6,234.0
+PT-00705,Gary,Sweeney,1999-06-08,2019-12-12,Prefer not to say,B+,(749) 607-0393,castrorobert@example.net,TX,76943.0,Oncology,18.0,449.0,16.5,202.0
+PT-00010,Joel,Morris,2001-09-26,2024-03-31,Female,AB-,(001) 804-9389,mendozabrooke@example.com,TX,76181.0,Phlebotomy,8.0,404.0,16.2,212.0
+PT-00860,Jonathan,Glover,1979-09-09,2022-05-11,Male,O+,(706) 213-5341,,TX,79994.0,Cardiology,10.0,411.0,17.1,170.0
+PT-00197,Jamie,Aguilar,1998-10-30,2021-09-21,Non-binary,A-,(745) 729-6225,ethompson@example.net,TX,75740.0,Cardiology,999.0,451.0,15.8,208.0
+PT-00653,Leslie,Robbins,1957-01-12,2021-04-07,,,(467) 934-8676,crystalgonzalez@example.com,TX,76557.0,Phlebotomy,10.0,459.0,12.1,185.0
+PT-00082,Dana,Johnson,1980-03-16,2018-03-12,Male,AB+,(505) 976-7347,zsummers@example.org,TX,77945.0,Oncology,13.0,488.0,12.6,279.0
+PT-00448,James,Taylor,1967-12-31,2019-06-13,Male,AB+,(182) 159-1197,cindy99@example.net,TX,77450.0,Emergency,19.0,439.0,12.1,121.0
+PT-00534,Denise,Harper,1985-02-26,2019-04-27,Male,O-,(158) 947-4083,opeters@example.org,TX,77423.0,Emergency,20.0,469.0,16.4,276.0
+PT-00669,Daniel,Bishop,1963-04-18,2023-11-23,Female,B+,(339) 979-4527,stephaniewoods@example.net,TX,79527.0,Emergency,19.0,463.0,14.4,271.0
+PT-00240,Tara,Carr,1971-01-27,2022-12-17,Non-binary,A+,(870) 637-9185,phillipsdouglas@example.com,TX,79086.0,Oncology,7.0,468.0,,253.0
+PT-00412,Leon,Flores,1986-11-18,2022-09-11,,,(880) 537-7003,watsonaaron@example.net,TX,79698.0,General,10.0,410.0,13.6,
+PT-00212,Austin,Weber,1997-05-25,2024-08-04,Male,,(407) 329-3499,amandawilliams@example.org,TX,79832.0,General,17.0,,16.4,242.0
+PT-00774,Howard,Anderson,1982-12-05,2024-07-04,Female,A+,(142) 491-9027,michellemills@example.com,TX,77580.0,General,12.0,434.0,14.3,218.0
+PT-00546,Bradley,Rogers,1984-08-05,2022-12-04,,B-,(599) 578-3557,haneytimothy@example.com,TX,77039.0,General,10.0,424.0,11.2,263.0
+PT-00520,Lori,Bond,1953-02-11,2023-06-04,Non-binary,B+,(943) 487-7259,,TX,78599.0,Oncology,16.0,429.0,11.4,204.0
+PT-00228,Cassie,White,1990-01-17,2022-02-06,Female,B-,(522) 271-1283,tiffany71@example.org,TX,79627.0,Phlebotomy,17.0,451.0,14.3,121.0
+PT-00923,Katelyn,Chavez,1972-05-09,2020-10-02,Female,O+,(186) 439-0628,wlane@example.org,TX,78440.0,Cardiology,5.0,454.0,13.7,214.0
+PT-00405,Jeffrey,Curtis,1963-10-19,2021-02-27,Non-binary,,(772) 517-4594,angelajackson@example.org,TX,,Phlebotomy,2.0,450.0,14.7,235.0
+PT-00890,William,Payne,1948-01-01,2018-03-26,Female,B+,(506) 740-5027,hughesjessica@example.com,TX,78600.0,General,13.0,436.0,15.2,277.0
+PT-00178,Ryan,Foster,1956-03-22,2019-11-10,Prefer not to say,AB+,,wilsonchris@example.net,TX,77823.0,General,12.0,486.0,15.7,223.0
+PT-00466,Virginia,Smith,1998-10-05,,,B-,(617) 367-5862,,TX,75754.0,Oncology,17.0,466.0,15.5,268.0
+PT-00431,Allen,Gould,2003-12-11,2021-02-01,Female,O+,(899) 542-6133,lucasnicholas@example.org,TX,78284.0,Cardiology,15.0,432.0,12.4,187.0
+PT-00533,Jeffrey,Russell,2001-05-25,2022-09-16,Female,A-,(331) 514-8025,,TX,78059.0,Emergency,999.0,478.0,14.9,246.0
+PT-00696,Vanessa,Hunter,1974-06-07,2018-09-28,Female,B-,(297) 461-1994,qmontgomery@example.com,TX,79803.0,Emergency,14.0,500.0,17.4,255.0
+PT-00479,Angela,Huber,1992-06-29,2023-06-02,Prefer not to say,,(941) 978-1208,sarah26@example.org,TX,79499.0,Oncology,4.0,449.0,15.3,265.0
+PT-00689,Brandon,Nixon,1978-04-05,2022-05-25,Female,O+,(868) 647-6403,brentbrown@example.com,TX,75692.0,General,12.0,439.0,13.2,160.0
+PT-00008,Pamela,Gross,1972-09-23,2019-10-29,Female,AB-,(001) 409-6794,jennifer30@example.net,TX,76608.0,Oncology,9.0,489.0,17.1,275.0
+PT-00156,Heather,Anderson,1950-03-18,2021-11-14,,A-,(236) 272-9977,frankgriffin@example.org,TX,78103.0,Phlebotomy,19.0,462.0,14.4,188.0
+PT-00358,Kimberly,Mason,1999-10-04,2019-12-21,Male,B+,(993) 347-6667,,TX,79150.0,Oncology,1.0,420.0,14.2,198.0
+PT-00585,Kevin,Morris,1976-12-08,2024-04-15,Prefer not to say,,,qcampos@example.org,TX,79141.0,Oncology,6.0,491.0,15.8,209.0
+PT-00224,Mark,Conrad,1944-05-13,2018-07-27,Female,B+,(130) 792-3179,,TX,78053.0,Emergency,16.0,436.0,14.5,137.0
+PT-00330,Jordan,Ochoa,2004-02-07,2022-12-13,Female,O+,,amandabryan@example.net,TX,77066.0,Emergency,8.0,438.0,,118.0
+PT-00634,Heather,Glenn,1965-06-24,2020-04-02,Female,A+,(506) 326-6956,pnicholson@example.com,TX,76080.0,Cardiology,1.0,,,179.0
+PT-00823,Thomas,Mccarthy,1956-12-08,2018-10-13,Prefer not to say,A+,(128) 152-5531,kristenbauer@example.net,TX,79011.0,Oncology,1.0,486.0,14.2,136.0
+PT-00869,Nathan,Long,1944-06-19,2022-01-07,Prefer not to say,O+,(196) 498-1415,,TX,77216.0,Oncology,3.0,447.0,12.1,255.0
+PT-00612,Makayla,Gillespie,1996-02-06,2020-01-03,Prefer not to say,,(782) 693-9461,glennjohn@example.com,TX,,Emergency,12.0,486.0,14.0,280.0
+PT-00747,Jennifer,Mcintosh,1950-11-02,2024-06-17,Female,AB+,(001) 982-9604,waremitchell@example.com,TX,77019.0,Oncology,2.0,,12.1,126.0
+PT-00679,Valerie,Wallace,1973-05-03,2023-01-26,Non-binary,,(195) 740-5515,nathan38@example.net,TX,,Emergency,10.0,422.0,11.7,119.0
+PT-00810,Jasmine,Gilmore,1983-01-07,2021-11-27,,A+,(999) 878-7547,gbrown@example.com,TX,76022.0,Oncology,15.0,476.0,14.4,197.0
+PT-00495,Molly,Kelly,1987-08-05,2023-04-30,Non-binary,AB+,(156) 383-8401,richardobrien@example.org,TX,77207.0,Cardiology,15.0,430.0,16.9,267.0
+PT-00573,Leroy,Hudson,1977-11-04,2024-11-13,Prefer not to say,A-,(215) 365-1762,frankseth@example.com,TX,77728.0,Phlebotomy,6.0,443.0,12.5,191.0
+PT-00629,Joseph,Moore,1998-10-19,2018-04-10,Non-binary,O-,(001) 528-6598,donna32@example.org,TX,79983.0,Cardiology,20.0,456.0,15.1,222.0
+PT-00763,Maurice,Walton,2059-09-22,2021-04-23,Female,B+,(466) 653-0802,griffithjacqueline@example.com,TX,76962.0,Cardiology,18.0,429.0,11.6,243.0
+PT-00959,James,Bender,1973-06-28,2024-01-23,Female,B-,(192) 561-3385,wesley46@example.net,TX,78241.0,Emergency,14.0,471.0,13.9,110.0
+PT-00164,Dawn,Castaneda,1985-10-01,2020-03-05,,AB+,(170) 474-9534,kpena@example.com,TX,76372.0,Phlebotomy,8.0,413.0,12.0,160.0
+PT-00229,Donald,Thomas,1943-06-29,2019-07-16,Non-binary,,(182) 383-9710,qfitzgerald@example.org,TX,77785.0,Emergency,15.0,419.0,14.9,241.0
+PT-00524,Rodney,Hayden,1986-04-29,2022-07-21,Non-binary,AB-,(155) 930-7170,hgrant@example.net,TX,76801.0,Oncology,16.0,477.0,11.0,145.0
+PT-00787,Oscar,Wiley,1967-01-20,2019-05-13,Male,O+,(960) 858-8080,lesliewhite@example.org,TX,,Phlebotomy,5.0,458.0,17.0,149.0
+PT-00213,Mary,Decker,1953-09-23,2021-05-30,,O+,(400) 905-5309,gacosta@example.net,TX,76629.0,Cardiology,8.0,444.0,17.2,242.0
+PT-00826,Fernando,Wallace,1951-01-05,2020-08-11,Prefer not to say,O-,(582) 999-2293,megan72@example.com,TX,,Cardiology,19.0,475.0,12.8,274.0
+PT-00080,Karen,Bauer,1971-10-31,2020-11-24,Non-binary,AB+,(554) 414-0724,hayesryan@example.net,TX,77551.0,Emergency,9.0,471.0,11.1,158.0
+PT-00149,Kim,Hall,2004-09-08,2018-07-30,Non-binary,AB+,(766) 797-7169,josephcastro@example.com,TX,77787.0,Cardiology,4.0,473.0,14.3,149.0
+PT-00303,Tristan,Green,1972-05-25,2020-10-27,Non-binary,A+,(149) 974-2914,huangchelsea@example.com,TX,77807.0,Cardiology,20.0,425.0,14.0,144.0
+PT-00449,Eric,Williams,2066-02-10,,Prefer not to say,AB-,(331) 504-6666,rodriguezjesse@example.org,TX,,Emergency,5.0,443.0,17.5,235.0
+PT-00502,Katie,Anderson,1978-11-06,2021-07-19,Male,O+,(323) 799-9663,christopher10@example.org,TX,75673.0,Phlebotomy,,400.0,15.2,268.0
+PT-00549,Sabrina,Dawson,2003-02-15,2018-10-09,Female,AB+,(164) 669-6018,,TX,76875.0,Emergency,19.0,444.0,13.3,180.0
+PT-00842,Patricia,Underwood,1984-08-01,2018-11-05,Female,AB+,(001) 963-9698,vwarren@example.org,TX,75527.0,Cardiology,2.0,438.0,17.5,212.0
+PT-00044,Cody,Anderson,1972-02-06,2020-05-10,,A-,(139) 033-2779,xwalls@example.org,TX,76299.0,Cardiology,18.0,452.0,17.3,149.0
+PT-00494,Douglas,Williams,1948-03-31,2021-12-02,Female,B-,(683) 703-1302,jallen@example.org,TX,78962.0,Cardiology,11.0,446.0,12.9,268.0
+PT-00134,Jennifer,Torres,1942-08-12,2022-02-26,Female,A+,(270) 342-7109,jennifer76@example.com,TX,78110.0,General,8.0,446.0,11.6,
+PT-00595,Bethany,Miller,1954-03-25,2018-06-22,Non-binary,AB+,(946) 898-9177,christina65@example.org,TX,77246.0,General,10.0,425.0,13.3,123.0
+PT-00312,Anna,Villegas,1998-01-16,2024-11-14,Male,O+,(156) 547-1794,peter78@example.net,TX,76577.0,Cardiology,14.0,413.0,11.1,176.0
+PT-00508,Craig,Burns,2052-10-11,2019-10-22,Female,,(479) 441-0586,joyceharper@example.net,TX,79113.0,Emergency,9.0,424.0,11.7,255.0
+PT-00656,Jacob,Davis,1992-12-16,2020-04-07,Prefer not to say,,(812) 366-3845,marcussoto@example.com,TX,79850.0,Emergency,11.0,488.0,15.2,151.0
+PT-00517,Derek,Caldwell,1982-05-09,2019-09-01,Non-binary,O+,(155) 499-5549,karen06@example.net,TX,79683.0,Emergency,19.0,493.0,16.6,144.0
+PT-00850,Bernard,Larsen,1967-11-10,2023-03-17,Female,,(889) 526-5140,lori66@example.net,TX,77526.0,Phlebotomy,2.0,,12.0,144.0
+PT-00812,Hannah,Lee,1967-07-31,2019-05-29,Female,O+,(590) 399-1761,rachaelhogan@example.com,TX,76045.0,Phlebotomy,14.0,,16.0,138.0
+PT-00001,Penny,Taylor,1997-05-13,2019-04-02,Male,A+,(999) 403-9921,john16@example.com,TX,75726.0,Phlebotomy,8.0,417.0,15.8,249.0
+PT-00783,Angela,Cunningham,1960-05-06,2023-06-07,Non-binary,AB+,(675) 249-6855,michaelfoster@example.net,TX,76123.0,Emergency,5.0,,12.8,152.0
+PT-00383,Hannah,Kennedy,1995-05-09,2020-10-03,Non-binary,A+,(170) 596-9289,jefferypatel@example.org,TX,79543.0,General,18.0,461.0,11.4,181.0
+PT-00317,Matthew,Butler,2042-01-10,2021-11-06,Male,,(325) 698-1670,bellbobby@example.com,TX,76494.0,Oncology,17.0,422.0,14.6,194.0
+PT-00762,Justin,Davis,2045-05-08,2021-02-23,Female,A-,(699) 411-3731,fosterdavid@example.com,TX,77010.0,General,15.0,453.0,,197.0
+PT-00592,Michelle,Jones,1945-01-10,2020-12-27,Male,A+,(941) 800-9372,michaelturner@example.com,TX,76478.0,Emergency,16.0,423.0,12.2,174.0
+PT-00409,Joshua,Thomas,1988-10-24,2022-05-07,,AB+,(191) 580-9530,patrick90@example.org,TX,75684.0,General,12.0,423.0,13.9,177.0
+PT-00942,Lisa,Gutierrez,1952-10-01,2024-08-12,,,(001) 408-8399,davidwalker@example.com,TX,75986.0,Cardiology,10.0,427.0,12.2,235.0
+PT-00751,Kimberly,Anderson,2002-02-11,2019-06-04,Female,B+,(230) 737-7828,ostone@example.org,TX,76565.0,Cardiology,17.0,457.0,13.7,154.0
+PT-00173,Julia,Estrada,1965-06-28,2020-10-29,Female,AB-,(001) 263-4419,quinnryan@example.net,TX,75826.0,General,19.0,484.0,11.9,199.0
+PT-00126,Robert,Mooney,1948-02-01,2021-04-23,Non-binary,O+,(691) 944-2660,cindymiller@example.net,TX,79721.0,Oncology,7.0,416.0,16.1,203.0
+PT-00697,Pedro,Bishop,1970-09-13,2024-02-09,Female,,(601) 565-9239,jorgewalker@example.net,TX,78601.0,Emergency,19.0,462.0,11.7,
+PT-00500,Anthony,Little,1998-01-02,2018-10-23,Female,,(979) 650-1872,uwells@example.org,TX,76242.0,Cardiology,11.0,404.0,11.6,123.0
+PT-00597,Mackenzie,Stone,1992-06-15,2019-05-06,Prefer not to say,B-,(273) 217-6199,smithdonald@example.com,TX,78486.0,Phlebotomy,2.0,474.0,16.1,231.0
+PT-00972,Kelly,Watkins,1991-02-16,2020-07-22,Non-binary,,(153) 723-8490,phillipscalvin@example.com,TX,,Phlebotomy,18.0,478.0,12.6,253.0
+PT-00091,Ricky,Moore,1990-01-24,2022-09-01,Female,A+,(675) 288-6017,znelson@example.net,TX,75741.0,Cardiology,15.0,438.0,16.6,219.0
+PT-00182,Brian,Moon,2003-10-28,2023-10-15,Prefer not to say,,(544) 812-6162,,TX,78012.0,Phlebotomy,6.0,434.0,13.9,241.0
+PT-00364,Kimberly,Watkins,2056-01-21,2018-05-25,Prefer not to say,O-,(137) 574-8345,krystal54@example.net,TX,76708.0,Cardiology,8.0,453.0,17.0,191.0
+PT-00275,Brandon,Abbott,1959-01-01,2020-02-18,Male,O-,(319) 282-3796,allenchristine@example.net,TX,78015.0,Oncology,20.0,490.0,12.3,171.0
+PT-00753,Joseph,Young,1971-03-17,2022-09-12,Male,B-,(942) 958-9492,lisa40@example.net,TX,79950.0,Oncology,4.0,467.0,17.3,
+PT-00963,Bobby,Green,1978-10-02,2020-05-13,Female,,(882) 604-5135,hernandezfrank@example.net,TX,77434.0,Emergency,15.0,434.0,12.6,192.0
+PT-00070,Paula,Valencia,1977-10-26,2020-10-30,Male,O-,(562) 483-5579,lowerachel@example.com,TX,,Phlebotomy,18.0,406.0,17.5,199.0
+PT-00292,Brian,Bates,1946-11-26,2021-05-10,Female,,(595) 842-9126,cowanmary@example.net,TX,77546.0,Emergency,13.0,486.0,16.8,194.0
+PT-00132,Robert,Higgins,1967-04-22,2023-07-11,Non-binary,,(170) 479-0357,parrishmary@example.net,TX,75766.0,Oncology,18.0,417.0,13.5,204.0
+PT-00301,Kelly,Gibson,1961-10-11,2024-05-31,Female,O+,(963) 278-8351,allenwhitney@example.net,TX,78625.0,Oncology,5.0,434.0,13.0,236.0
+PT-00713,Taylor,Santiago,2001-05-15,2024-01-18,Non-binary,,(174) 494-8370,bmiller@example.net,TX,76728.0,Cardiology,18.0,499.0,11.1,226.0
+PT-00327,Joshua,Powers,1985-05-06,2023-07-21,Prefer not to say,O-,(590) 586-2206,chrisanderson@example.com,TX,76936.0,General,999.0,462.0,12.1,254.0
+PT-00145,Keith,Wong,1998-09-26,2024-03-08,Female,O+,(277) 232-0620,,TX,76008.0,General,8.0,,13.2,226.0
+PT-00522,James,Curtis,1998-07-03,2021-08-20,Male,AB+,(001) 642-9753,natalie32@example.com,TX,75636.0,Cardiology,19.0,469.0,14.7,206.0
+PT-00964,James,Hernandez,1970-08-25,2020-12-05,Prefer not to say,,(361) 690-8458,hannahsimmons@example.net,TX,76050.0,Phlebotomy,5.0,482.0,17.0,265.0
+PT-00887,Matthew,Barry,1983-01-18,2023-02-03,Non-binary,A+,(739) 204-6857,tpeters@example.com,TX,77744.0,Cardiology,2.0,483.0,15.0,225.0
+PT-00136,Ryan,Wood,1948-03-22,2020-05-18,Female,O+,(927) 490-9487,phillipsrebecca@example.net,TX,79613.0,Cardiology,8.0,416.0,16.1,162.0
+PT-00997,John,Robinson,1973-05-28,2019-12-03,Prefer not to say,A-,(001) 215-6300,,TX,79046.0,Phlebotomy,5.0,416.0,16.2,159.0
+PT-00723,Veronica,Cherry,1941-01-23,2021-03-28,Prefer not to say,B-,(001) 327-3103,hallbenjamin@example.org,TX,76541.0,Cardiology,17.0,487.0,17.2,134.0
+PT-00165,Travis,Moreno,1955-07-26,2024-10-03,,A-,(182) 455-6842,smithsarah@example.com,TX,75672.0,Phlebotomy,16.0,459.0,,258.0
+PT-00029,Douglas,Smith,1954-12-02,2022-07-23,Female,O-,,josephrobinson@example.org,TX,77435.0,Oncology,13.0,407.0,12.1,110.0
+PT-00680,Shawn,Williams,1958-02-17,2019-01-15,Prefer not to say,O-,(621) 764-2726,,TX,78759.0,Phlebotomy,17.0,419.0,12.2,233.0
+PT-00194,Julia,Murphy,2001-06-04,2023-03-19,,B+,(128) 323-7443,,TX,,Oncology,3.0,491.0,16.0,227.0
+PT-00814,Mike,Bruce,1986-01-24,2024-08-26,Male,AB+,(287) 263-1473,,TX,79386.0,Phlebotomy,9.0,405.0,11.4,280.0
+PT-00434,Brandi,Johnson,1997-06-21,2021-08-24,Non-binary,AB+,(393) 476-3339,josephrose@example.com,TX,79111.0,Cardiology,7.0,419.0,14.4,171.0
+PT-00988,Mark,Manning,1986-06-11,2024-07-30,,O-,,brandon63@example.com,TX,77964.0,Oncology,17.0,471.0,16.6,218.0
+PT-00170,Christopher,Gardner,1953-07-14,2018-09-11,Prefer not to say,O+,(686) 710-2936,ramirezjason@example.net,TX,77760.0,General,3.0,464.0,15.2,120.0
+PT-00542,Mariah,Beard,2052-05-21,2019-05-03,Female,O-,(365) 946-6363,jeffrey63@example.org,TX,76905.0,Oncology,4.0,427.0,,196.0
+PT-00141,Jerry,Huang,1949-10-13,2023-01-26,Female,A+,(980) 431-9715,kimjudy@example.net,TX,76594.0,Emergency,10.0,458.0,15.2,117.0
+PT-00174,Dana,Ramirez,1967-10-31,2022-05-25,Prefer not to say,AB+,(001) 303-2685,anthony87@example.org,TX,78881.0,Cardiology,18.0,448.0,,194.0
+PT-00007,Patrick,Villegas,2044-02-10,2020-07-22,Non-binary,A-,(212) 658-5166,alejandra02@example.org,TX,79464.0,Oncology,4.0,448.0,,272.0
+PT-00821,Keith,Murphy,2003-03-23,2021-03-26,Male,A-,(904) 237-5889,udean@example.net,TX,77726.0,Cardiology,16.0,414.0,13.5,
+PT-00536,Leah,Medina,1974-03-15,2021-06-12,Male,A+,(249) 362-6107,qpennington@example.com,TX,78746.0,Phlebotomy,9.0,461.0,16.0,131.0
+PT-00962,Sheila,Jones,1990-07-08,2018-10-14,Non-binary,A-,(768) 456-8758,jessica17@example.org,TX,76436.0,General,4.0,417.0,15.7,181.0
+PT-00856,James,Mccullough,1964-08-18,2022-12-06,Female,A+,(996) 281-0429,tammy36@example.net,TX,79867.0,Cardiology,2.0,462.0,14.5,138.0
+PT-00074,Cameron,Davis,2000-10-07,2022-03-18,Prefer not to say,B-,(623) 269-2189,clarkpeter@example.com,TX,79187.0,Phlebotomy,19.0,488.0,16.4,172.0
+PT-00528,Daniel,Fleming,1954-06-15,2019-07-06,Male,B+,(414) 758-1222,vaughancorey@example.net,TX,77632.0,Phlebotomy,6.0,433.0,17.0,242.0
+PT-00239,Joanne,Bailey,1965-10-26,2019-05-15,Prefer not to say,O+,(519) 576-2803,peggy41@example.org,TX,79784.0,Cardiology,5.0,437.0,11.3,130.0
+PT-00146,Benjamin,Melton,1975-10-09,2022-08-31,Female,,(244) 680-0550,pross@example.com,TX,76167.0,Phlebotomy,11.0,485.0,12.7,149.0
+PT-00853,Victoria,Wells,1975-08-10,2019-07-30,Female,A-,(763) 611-6508,qbarnes@example.org,TX,78998.0,Emergency,17.0,,14.4,258.0
+PT-00235,Melissa,Hall,1977-01-17,2020-04-15,Prefer not to say,O-,(863) 616-8456,david38@example.org,TX,,Phlebotomy,5.0,466.0,12.3,193.0
+PT-00221,Aaron,Mcknight,1962-03-29,2019-08-01,Male,A+,(197) 456-4045,wilsonmorgan@example.org,TX,79469.0,Cardiology,13.0,478.0,13.7,150.0
+PT-00215,Jessica,Mcgee,1987-11-11,2019-01-18,Female,B+,(622) 577-9450,cortezgregory@example.net,TX,78228.0,Oncology,20.0,492.0,16.9,196.0
+PT-00712,Jacqueline,Sanchez,1965-01-25,2023-03-20,Male,,(654) 519-2752,claysarah@example.net,TX,77859.0,Oncology,16.0,480.0,15.8,129.0
+PT-00133,Stacey,Olsen,2000-02-25,2024-01-22,Prefer not to say,B+,(961) 683-4081,emilywatson@example.com,TX,79731.0,General,4.0,462.0,15.0,181.0
+PT-00907,Colleen,Carlson,1991-02-01,2022-05-24,Male,AB-,(001) 513-7650,aaron70@example.org,TX,,Phlebotomy,4.0,480.0,16.5,
+PT-00708,Michael,Lee,2002-05-21,2024-10-11,Prefer not to say,B+,(820) 466-6489,christopher07@example.net,TX,77094.0,General,17.0,454.0,14.6,225.0
+PT-00423,Joseph,Bell,2045-01-15,2023-10-12,Male,A-,(813) 998-4585,jacksanchez@example.com,TX,79925.0,Cardiology,17.0,,11.9,244.0
+PT-00186,Juan,Foster,2003-04-19,2023-04-06,Prefer not to say,A+,(456) 902-4827,samantha83@example.net,TX,79606.0,Phlebotomy,1.0,432.0,12.4,148.0
+PT-00042,Phillip,Preston,1990-04-27,2018-02-09,Male,O+,(900) 592-3898,denise92@example.com,TX,78704.0,General,18.0,404.0,16.4,259.0
+PT-00768,Ruth,Lee,1951-11-27,2022-01-08,Non-binary,B-,(001) 973-6381,ppowell@example.org,TX,79218.0,Phlebotomy,1.0,461.0,15.3,151.0
+PT-00109,Carlos,Cruz,1970-06-29,2023-09-11,Non-binary,A+,(368) 826-3702,rjones@example.com,TX,75632.0,Cardiology,10.0,475.0,14.8,278.0
+PT-00636,James,Wilson,2003-09-02,2019-02-12,Non-binary,O-,(001) 848-6205,,TX,75628.0,Emergency,18.0,411.0,12.2,238.0
+PT-00057,Lori,Hernandez,1953-03-21,2018-04-11,Male,B-,,denisebaker@example.com,TX,76045.0,General,20.0,498.0,11.5,216.0
+PT-00483,Joshua,Price,2000-04-27,2019-06-28,Female,AB-,(001) 364-6879,timothy62@example.com,TX,75623.0,Emergency,12.0,471.0,14.1,256.0
+PT-00754,Heather,Humphrey,1972-06-19,2024-01-20,Female,A+,(885) 431-4352,grahamchristina@example.com,TX,77166.0,Oncology,9.0,406.0,12.3,148.0
+PT-00794,Mckenzie,Cruz,1970-11-12,2021-12-10,Non-binary,O-,(988) 950-2120,ryan74@example.net,TX,78787.0,Emergency,3.0,,15.7,223.0
+PT-00469,Nancy,Lawson,1984-02-09,2021-08-06,Male,,(574) 468-8179,jwalter@example.com,TX,76805.0,Phlebotomy,2.0,464.0,12.4,274.0
+PT-00927,Brandon,Fernandez,2004-09-24,2021-07-08,,,(203) 983-8722,charleswong@example.com,TX,78461.0,Emergency,17.0,,,213.0
+PT-00436,Tracey,Mullen,2063-04-10,2022-09-11,Prefer not to say,O+,(636) 842-3594,jillcordova@example.com,TX,79269.0,Phlebotomy,19.0,490.0,17.5,158.0
+PT-00025,Joe,Wright,1976-07-08,2020-02-19,,A-,,stephen22@example.org,TX,78895.0,General,,,13.7,123.0
+PT-00519,Nathan,Hernandez,2001-05-18,2019-11-11,Female,O-,(120) 984-6171,miranda36@example.org,TX,78594.0,Oncology,6.0,472.0,17.2,278.0
+PT-00668,Heather,Barnett,1949-10-21,2024-05-29,Male,O-,(001) 657-7205,howeaaron@example.com,TX,77599.0,Emergency,10.0,,15.0,191.0
+PT-00998,Stacy,Gomez,1987-10-11,2022-03-30,Male,,(335) 416-0404,xzuniga@example.org,TX,,Emergency,14.0,481.0,12.6,121.0
+PT-00339,Jill,Parker,1984-05-19,2021-04-01,Prefer not to say,,(636) 627-6706,rlang@example.com,TX,77540.0,Cardiology,18.0,473.0,11.8,234.0
+PT-00052,Christopher,Mcgee,1972-09-03,2022-11-02,Male,AB-,(600) 422-4733,jmiller@example.com,TX,76649.0,Emergency,11.0,484.0,16.5,186.0
+PT-00384,Kelsey,Montes,1974-05-12,2019-07-17,Prefer not to say,O+,(604) 565-2509,,TX,76833.0,General,8.0,,17.5,249.0
+PT-00862,Darlene,Walter,1984-02-10,2023-04-14,Male,AB-,(931) 289-9809,wilkinsondaniel@example.org,TX,76041.0,Emergency,4.0,420.0,15.5,239.0
+PT-00990,Alexandra,Mullen,1993-10-22,2021-09-18,Non-binary,AB+,,ithomas@example.com,TX,77119.0,General,11.0,420.0,11.7,120.0
+PT-00683,Amy,Martinez,2001-08-21,2024-08-31,Male,AB-,(001) 276-5588,david89@example.org,TX,75605.0,Phlebotomy,2.0,413.0,14.4,278.0
+PT-00996,Michael,Mitchell,1941-11-18,2019-07-17,Non-binary,A-,(343) 579-7570,richard71@example.org,TX,77312.0,Cardiology,7.0,439.0,14.0,204.0
+PT-00265,Brenda,Wade,1999-03-25,2022-09-14,Non-binary,,(001) 609-9162,jessica70@example.net,TX,75811.0,Oncology,3.0,412.0,14.9,224.0
+PT-00709,Donald,Wang,2074-07-07,2021-12-26,Female,B+,(985) 365-1712,ccarlson@example.org,TX,79411.0,General,20.0,400.0,14.8,170.0
+PT-00766,Kyle,Wiley,2043-12-20,2018-06-14,Male,A+,,michaelnorman@example.org,TX,75652.0,General,17.0,450.0,14.1,135.0
+PT-00737,Kimberly,Garcia,2050-11-15,2024-05-12,Non-binary,AB-,(839) 660-2768,stacy22@example.org,TX,77314.0,Cardiology,13.0,407.0,15.1,275.0
+PT-00445,Sandra,Buckley,1954-03-19,2023-06-29,Male,A+,,hooveralbert@example.com,TX,79676.0,Cardiology,14.0,481.0,13.8,219.0
+PT-00396,Tiffany,Johnson,1951-06-04,2019-12-29,Male,O+,(349) 464-6939,relliott@example.net,TX,77062.0,Emergency,2.0,423.0,,
+PT-00559,Bobby,Yu,1943-10-16,2023-05-30,Non-binary,AB-,(478) 950-4998,ocole@example.org,TX,75747.0,Emergency,19.0,435.0,,240.0
+PT-00177,Johnny,Crawford,1985-07-18,2024-01-20,Male,B-,(484) 805-9319,,TX,79388.0,Emergency,5.0,476.0,13.4,
+PT-00019,Robert,Cooper,2061-06-25,2018-08-26,Male,A-,(696) 447-6223,brownkimberly@example.net,TX,76731.0,Phlebotomy,16.0,408.0,17.4,246.0
+PT-00980,Derek,Nichols,1942-12-28,2022-03-26,Non-binary,A-,(140) 141-5645,heatherbarrett@example.org,TX,76982.0,Oncology,2.0,456.0,11.4,266.0
+PT-00539,Paul,Johnson,1972-07-01,2019-03-13,Female,O+,(001) 388-6118,summerssandra@example.org,TX,76208.0,Oncology,9.0,433.0,16.6,218.0
+PT-00614,Melanie,Lewis,1987-11-24,2024-09-23,Female,,(237) 695-6464,wreilly@example.org,TX,76717.0,General,18.0,441.0,16.5,215.0
+PT-00591,Molly,Hunt,1967-12-14,2023-08-04,Non-binary,O-,(541) 267-2412,williamrhodes@example.com,TX,79187.0,Phlebotomy,11.0,410.0,16.5,147.0
+PT-00368,Emily,Flores,1973-01-14,2024-08-20,Prefer not to say,A+,(423) 225-3692,harmonkelly@example.com,TX,77454.0,Emergency,8.0,419.0,11.0,214.0
+PT-00084,Jaime,Johnson,1964-04-21,2021-06-09,Non-binary,O+,(927) 217-1970,johnsondalton@example.org,TX,78397.0,Phlebotomy,7.0,440.0,11.8,247.0
+PT-00062,Samuel,White,1964-11-16,2023-11-06,Female,B-,(001) 524-4637,craig28@example.net,TX,75833.0,Cardiology,15.0,409.0,15.6,170.0
+PT-00515,Douglas,Nichols,1988-04-27,2020-03-15,Non-binary,A-,(877) 376-0056,holly05@example.net,TX,78003.0,Phlebotomy,1.0,464.0,15.1,258.0
+PT-00273,Mandy,Bailey,1980-05-08,2022-02-28,Male,B-,(728) 328-5546,udavid@example.org,TX,75868.0,Emergency,9.0,448.0,15.4,264.0
+PT-00286,John,Black,1987-01-17,2019-09-02,Male,A+,(883) 458-9574,wmoreno@example.net,TX,76328.0,Cardiology,17.0,432.0,16.3,178.0
+PT-00361,Sara,Mcdaniel,1996-04-18,2018-11-12,Female,O-,,smithjamie@example.net,TX,79880.0,Emergency,12.0,407.0,14.2,255.0
+PT-00355,Kathryn,Bender,1977-12-31,2022-07-06,Male,B-,(001) 434-5404,orozcosteven@example.com,TX,76918.0,Cardiology,3.0,439.0,11.5,162.0
+PT-00952,Gregory,Gonzalez,1950-04-14,2019-02-11,Female,AB+,(001) 427-9200,kellybrennan@example.net,TX,77494.0,General,6.0,432.0,16.0,149.0
+PT-00279,Victor,Cannon,1989-08-21,2024-07-20,Prefer not to say,AB+,(780) 874-7400,awilcox@example.org,TX,79046.0,Phlebotomy,7.0,442.0,12.5,255.0
+PT-00369,Luis,James,2042-02-22,2020-08-12,,A+,(427) 764-5656,uraymond@example.com,TX,77529.0,Cardiology,1.0,497.0,15.3,188.0
+PT-00665,Nicole,Snyder,1954-06-22,2021-03-10,Female,O-,(730) 307-1350,martineznatalie@example.org,TX,79484.0,Emergency,,404.0,,186.0
+PT-00619,Michael,Murphy,1972-12-06,2024-07-12,Prefer not to say,B-,(486) 299-1303,tsmith@example.net,TX,75706.0,Cardiology,10.0,411.0,14.7,255.0
+PT-00590,John,Nguyen,2005-03-25,2018-02-03,Female,A+,(500) 359-8371,martinezcassidy@example.net,TX,77158.0,Oncology,1.0,463.0,12.4,217.0
+PT-00658,Patrick,King,2005-03-18,2023-09-27,Female,AB+,(280) 835-5400,robert94@example.org,TX,75577.0,Emergency,13.0,405.0,16.0,195.0
+PT-00457,Shirley,Mccormick,1958-08-19,2023-05-23,Non-binary,B-,(656) 268-7767,audreyramirez@example.org,TX,75863.0,Phlebotomy,1.0,485.0,11.6,138.0
+PT-00394,Luis,Johnson,2068-12-10,2019-07-13,Male,O+,(001) 955-5386,zrobbins@example.org,TX,77083.0,General,11.0,,15.6,253.0
+PT-00685,Nicholas,Riddle,1968-08-18,2022-12-12,Male,,(001) 432-4452,,TX,79477.0,Emergency,6.0,435.0,11.7,269.0
+PT-00724,Dean,Bean,1987-08-31,2021-12-20,Prefer not to say,AB+,(308) 626-5679,,TX,78667.0,Cardiology,9.0,434.0,16.2,175.0
+PT-00376,Raymond,Brown,2054-02-20,2021-05-31,Female,O-,(167) 047-3471,smithjeremy@example.org,TX,75876.0,Cardiology,5.0,411.0,15.6,201.0
+PT-00413,David,Brooks,1985-01-16,2024-05-28,Non-binary,O-,(300) 355-0746,tonya05@example.com,TX,78360.0,General,6.0,421.0,17.3,159.0
+PT-00075,Troy,Mann,2049-02-21,2021-05-20,Male,,(995) 376-6912,hendersonandres@example.net,TX,77301.0,Cardiology,18.0,454.0,15.3,127.0
+PT-00948,Sarah,Garcia,1990-03-07,2018-12-15,Female,A+,(001) 206-3956,morganjulia@example.com,TX,79414.0,Emergency,17.0,424.0,15.9,238.0
+PT-00501,Joseph,Gomez,2055-12-20,2020-10-28,Male,,(533) 838-5103,cruzanita@example.net,TX,76636.0,Cardiology,14.0,449.0,13.9,213.0
+PT-00605,Hector,Doyle,1968-10-08,2018-09-17,Prefer not to say,B-,(001) 654-5974,,TX,77104.0,Phlebotomy,16.0,498.0,14.6,266.0
+PT-00115,Heather,Clark,1995-11-30,2022-06-17,Male,AB-,(418) 711-8887,rodriguezbrian@example.org,TX,,Emergency,13.0,440.0,,234.0
+PT-00418,Todd,Wagner,1974-05-13,2023-06-12,Prefer not to say,A+,(001) 552-7008,veronica53@example.com,TX,79755.0,Oncology,9.0,451.0,11.9,265.0
+PT-00090,Mary,Salinas,1996-06-20,2018-08-08,Female,B+,(132) 384-9093,victoria24@example.net,TX,78104.0,Emergency,10.0,410.0,17.5,140.0
+PT-00991,John,Anderson,1984-06-28,2020-06-17,,B-,(199) 032-1002,miranda92@example.com,TX,77651.0,Cardiology,15.0,479.0,12.4,233.0
+PT-00933,Vanessa,Maldonado,1992-03-05,2024-05-05,Female,,(131) 451-1976,dberg@example.com,TX,79015.0,Emergency,10.0,485.0,16.1,256.0
+PT-00875,Cameron,Cruz,1993-07-29,2020-11-15,Prefer not to say,O+,(972) 663-7790,kimberlyrobertson@example.org,TX,78609.0,Emergency,2.0,406.0,13.2,170.0
+PT-00012,Brooke,Lee,1981-03-01,2019-08-09,Non-binary,B+,(795) 692-3919,hernandezrodney@example.net,TX,79598.0,General,18.0,468.0,12.7,259.0
+PT-00397,Julia,Sandoval,1959-10-26,2024-05-05,Male,O-,(299) 292-4421,ginasmith@example.com,TX,75546.0,Oncology,11.0,495.0,,198.0
+PT-00576,Kenneth,Powers,1999-05-24,2020-10-27,Male,B-,(885) 998-1656,adambruce@example.net,TX,78676.0,Oncology,13.0,413.0,11.6,231.0
+PT-00043,Ivan,Tran,1989-07-27,2019-08-30,Prefer not to say,,,,TX,,Phlebotomy,10.0,446.0,16.8,120.0
+PT-00168,Todd,Fowler,1945-02-07,2022-02-19,Non-binary,A+,(572) 701-0387,cglass@example.net,TX,76976.0,Phlebotomy,20.0,476.0,14.3,228.0
+PT-00417,Laura,Davies,1992-04-10,2019-02-15,Prefer not to say,A-,(166) 096-9250,imartinez@example.net,TX,76348.0,Cardiology,18.0,444.0,16.7,177.0
+PT-00968,Janice,Krueger,1979-11-19,2018-02-08,Female,A+,(001) 766-5445,bdelacruz@example.org,TX,78800.0,Cardiology,12.0,424.0,11.6,267.0
+PT-00427,Robert,Huffman,1992-08-25,2024-03-08,Non-binary,,(608) 821-5145,markchavez@example.net,TX,77266.0,Oncology,9.0,495.0,16.4,133.0
+PT-00545,Timothy,Patton,2004-12-30,2022-04-24,Prefer not to say,AB+,,andersonlinda@example.net,TX,76113.0,Emergency,2.0,499.0,16.3,273.0
+PT-00949,Julian,Hernandez,1941-09-03,2019-05-08,Male,A+,(723) 731-3903,kathryntaylor@example.org,TX,78924.0,Cardiology,7.0,431.0,16.4,258.0
+PT-00905,Erica,Flowers,1957-02-15,2018-12-19,,O-,(725) 782-8681,ebrooks@example.com,TX,77549.0,Phlebotomy,16.0,454.0,11.1,152.0
+PT-00662,Aaron,Douglas,1982-09-05,2023-02-02,Prefer not to say,O-,(566) 540-7613,istevenson@example.com,TX,79883.0,Cardiology,20.0,,11.0,250.0
+PT-00258,Shawn,Richard,1990-02-17,2023-03-09,Non-binary,A+,(001) 586-7949,moralesashlee@example.org,TX,76475.0,Oncology,9.0,400.0,15.8,258.0
+PT-00336,Jonathan,Jenkins,1983-11-29,2019-08-06,Non-binary,,(143) 128-2052,zcampbell@example.net,TX,77212.0,Emergency,15.0,409.0,15.1,133.0
+PT-00016,Robert,Mills,1966-05-01,2022-11-16,Female,,(927) 454-7451,valdezjonathon@example.org,TX,77904.0,Phlebotomy,9.0,464.0,16.0,239.0
+PT-00325,Ashley,Mcgee,2055-07-17,2024-03-22,Female,A+,(577) 342-5928,cunninghamsara@example.net,TX,77963.0,Cardiology,5.0,423.0,13.0,
+PT-00818,Jason,Schroeder,1965-04-14,2019-12-05,Male,A-,(001) 938-4111,hallsusan@example.net,TX,75797.0,Oncology,17.0,490.0,14.1,260.0
+PT-00223,Eric,Reese,1984-08-14,2018-04-05,,,(284) 532-3410,jennifer13@example.org,TX,75518.0,Emergency,15.0,,12.4,200.0
+PT-00180,Sarah,Horne,2057-05-28,2022-02-15,Prefer not to say,O-,(001) 946-4680,hcline@example.net,TX,76036.0,Cardiology,13.0,464.0,,151.0
+PT-00100,Eric,Foster,1986-07-23,2022-12-17,Male,,(475) 437-8756,,TX,75680.0,Emergency,14.0,481.0,16.3,
+PT-00023,John,Cruz,1946-05-15,2018-08-30,Female,B-,(001) 802-4890,deannaadams@example.net,TX,78602.0,Phlebotomy,11.0,409.0,14.3,181.0
+PT-00357,Lisa,Jackson,1945-03-12,2020-09-28,Male,O+,(135) 837-3407,cheryl07@example.net,TX,75738.0,Phlebotomy,15.0,478.0,15.0,189.0
+PT-00721,Mariah,Lowe,2044-11-15,2020-12-18,Male,A+,(177) 961-1895,ithornton@example.org,TX,77730.0,Emergency,15.0,451.0,14.1,231.0
+PT-00928,Michael,Byrd,1980-01-11,2020-04-20,Prefer not to say,A+,(161) 986-0797,sherri93@example.com,TX,78364.0,General,,438.0,11.5,247.0
+PT-00758,Shannon,Lloyd,2004-09-19,2022-12-27,,,(207) 327-3367,anthonymason@example.com,TX,77687.0,General,11.0,429.0,16.1,193.0
+PT-00341,Jason,Hammond,1979-08-04,2023-02-13,Male,O-,(184) 794-2376,bwalker@example.com,TX,75516.0,Oncology,5.0,483.0,13.0,180.0
+PT-00432,Douglas,Hurst,2000-10-02,2023-11-03,,B-,(446) 498-8614,hallkaren@example.com,TX,77247.0,Emergency,17.0,484.0,17.3,205.0
+PT-00596,Wesley,Gomez,1999-10-24,2020-06-11,Male,B-,(001) 323-3686,websterross@example.net,TX,78704.0,General,11.0,401.0,12.1,180.0
+PT-00899,Jenna,Romero,2044-01-23,2018-12-08,Female,AB+,(818) 767-3495,cynthia17@example.org,TX,78092.0,Cardiology,19.0,492.0,14.0,225.0
+PT-00204,Russell,Jordan,1991-06-28,2019-07-18,Non-binary,O+,(001) 816-5801,wmiller@example.com,TX,78165.0,General,9.0,431.0,17.2,116.0
+PT-00761,Francisco,Underwood,1952-03-27,2023-02-18,Prefer not to say,,(890) 419-2459,gina88@example.net,TX,76242.0,Cardiology,7.0,442.0,11.8,255.0
+PT-00094,Anne,Poole,1966-02-16,2018-05-14,Prefer not to say,AB+,(648) 218-7425,,TX,79596.0,Cardiology,15.0,409.0,15.5,177.0
+PT-00603,Meredith,Miller,1954-05-21,2018-10-10,Male,O-,(924) 694-4693,glasspamela@example.net,TX,75930.0,Cardiology,9.0,469.0,13.4,110.0
+PT-00069,Thomas,Jensen,1974-04-01,2021-09-02,Female,,(987) 824-5804,brian11@example.net,TX,79342.0,Emergency,11.0,497.0,16.7,181.0
+PT-00954,Robert,Smith,2066-09-26,2022-05-17,,AB-,(548) 529-3791,kimberlylopez@example.org,TX,79313.0,Oncology,14.0,441.0,,
+PT-00285,Tiffany,Smith,2004-10-15,2021-01-30,Non-binary,,(510) 223-1706,froberts@example.org,TX,77553.0,Emergency,14.0,422.0,11.7,134.0
+PT-00866,Danielle,Macdonald,1980-07-03,2023-05-14,Female,AB+,(839) 325-3687,timothy21@example.net,TX,76153.0,Oncology,19.0,441.0,16.2,160.0
+PT-00435,Natalie,Baker,1945-02-03,2024-09-23,Prefer not to say,AB-,(001) 412-4631,judy44@example.net,TX,79780.0,Cardiology,1.0,483.0,14.2,185.0
+PT-00154,Justin,Mason,1967-12-16,2021-08-21,Male,A+,(277) 275-2591,brucerachel@example.com,TX,76834.0,Oncology,6.0,496.0,15.0,130.0
+PT-00076,Donald,Gomez,1985-05-23,2021-10-29,Female,O+,(310) 300-7149,zwilson@example.org,TX,76217.0,General,4.0,455.0,,272.0
+PT-00789,Breanna,Cole,1999-10-30,2019-08-26,Female,AB-,(138) 655-0513,anthonymccormick@example.org,TX,77140.0,Phlebotomy,16.0,405.0,11.9,251.0
+PT-00581,William,Schwartz,1997-01-16,2024-04-29,Prefer not to say,AB+,(840) 997-0634,riverajoseph@example.com,TX,79092.0,Cardiology,16.0,469.0,,
+PT-00447,Rebecca,Gonzalez,1968-11-27,2023-12-16,Female,A+,(832) 799-6046,scottgonzalez@example.org,TX,,General,8.0,428.0,15.5,198.0
+PT-00189,Karina,Gonzalez,1986-03-27,2024-06-13,Female,B+,(316) 733-7469,tamaracole@example.net,TX,,Cardiology,14.0,400.0,,171.0
+PT-00272,David,Mahoney,1989-12-30,2023-12-11,Female,O+,(546) 297-9515,sandra85@example.org,TX,78370.0,Oncology,9.0,426.0,13.1,130.0
+PT-00237,Peter,Anderson,2000-08-19,,Prefer not to say,B-,(311) 597-1057,tshelton@example.org,TX,75678.0,Oncology,9.0,471.0,12.9,186.0
+PT-00488,Lee,Silva,1974-10-08,2022-09-03,Non-binary,A+,(950) 716-9334,amanda47@example.com,TX,77184.0,Phlebotomy,9.0,425.0,,223.0
+PT-00560,Amy,Dominguez,2065-02-21,2022-06-18,Female,O-,,danielslaura@example.org,TX,77905.0,Phlebotomy,17.0,454.0,14.1,248.0
+PT-00118,Lauren,Malone,2066-04-27,2022-01-08,Non-binary,,(001) 599-5672,christineblake@example.org,TX,77884.0,Oncology,8.0,467.0,13.7,156.0
+PT-00881,Jessica,Thompson,1989-11-07,2022-08-12,Male,B-,(001) 445-9759,joseph10@example.org,TX,,Oncology,2.0,429.0,12.2,230.0
+PT-00513,Matthew,Jones,2003-11-23,2022-11-22,Female,AB-,(333) 261-0399,chloewilson@example.com,TX,76370.0,Oncology,11.0,461.0,14.0,201.0
+PT-00598,Jared,Jimenez,2001-10-04,2024-09-08,Female,AB-,(741) 760-6345,michellejohnson@example.org,TX,76699.0,Phlebotomy,8.0,420.0,,268.0
+PT-00644,Deanna,Henry,1956-08-07,2021-07-24,Female,A+,(844) 834-1910,meghanflores@example.com,TX,76944.0,Emergency,14.0,452.0,,
+PT-00127,Philip,Carter,1987-08-16,2023-08-18,Female,B+,(828) 224-7901,wardmichelle@example.net,TX,76799.0,General,16.0,437.0,15.9,196.0
+PT-00117,Christopher,Payne,1996-11-08,2019-02-16,Prefer not to say,B+,(166) 961-1918,brittanywalker@example.org,TX,75656.0,Cardiology,1.0,405.0,13.1,124.0
+PT-00474,David,Moore,1982-06-12,2022-01-28,Female,A-,(001) 466-9568,tgilbert@example.org,TX,76825.0,Phlebotomy,8.0,400.0,,272.0
+PT-00058,Mary,Collier,1996-07-01,2024-06-15,Female,A+,(001) 415-2138,davidroberts@example.org,TX,77383.0,General,13.0,431.0,,111.0
+PT-00729,James,Garcia,1998-02-15,2024-05-07,Female,A-,(135) 673-8816,jeffrey05@example.com,TX,79289.0,Oncology,9.0,437.0,14.0,129.0
+PT-00981,Jessica,Lee,1996-03-05,,Male,A-,(183) 143-8972,vcox@example.net,TX,77149.0,Emergency,18.0,406.0,,207.0
+PT-00370,Kelly,Wilkerson,1949-04-29,2020-04-20,Female,O+,(156) 851-9026,herbertharvey@example.com,TX,79536.0,General,2.0,418.0,15.6,133.0
+PT-00269,Karen,Hernandez,2005-12-16,2019-12-19,Prefer not to say,O-,(652) 560-7546,shahtasha@example.com,TX,78496.0,Phlebotomy,12.0,482.0,15.4,244.0
+PT-00047,Shawn,Taylor,1957-11-26,2023-03-01,Non-binary,,(129) 925-5217,andersonkimberly@example.com,TX,77370.0,Oncology,8.0,403.0,15.3,212.0
+PT-00350,Charles,Garcia,1962-04-06,2024-03-16,Non-binary,,(553) 240-3032,scottkaren@example.org,TX,,Oncology,7.0,466.0,14.9,158.0
+PT-00196,Sandra,Stevenson,1975-09-23,2024-02-03,,O+,(367) 247-6604,james84@example.org,TX,75645.0,Phlebotomy,7.0,436.0,13.3,122.0
+PT-00103,Savannah,Torres,1986-03-02,2018-01-05,Prefer not to say,A+,(334) 221-7594,,TX,75974.0,Emergency,7.0,466.0,13.4,237.0
+PT-00900,Nicholas,Barker,1995-12-19,2020-12-21,Non-binary,,(939) 949-4328,kayla83@example.net,TX,77906.0,Emergency,6.0,410.0,15.9,264.0
+PT-00746,Gregory,Cohen,1995-03-25,2020-06-22,Female,B-,(778) 471-1015,shortronald@example.org,TX,76221.0,General,11.0,494.0,15.4,193.0
+PT-00894,Monica,Phelps,2048-05-03,2018-06-15,Prefer not to say,O-,(734) 832-3678,,TX,75940.0,Oncology,5.0,463.0,14.4,275.0
+PT-00264,Matthew,Carter,2062-03-16,2023-03-02,,B+,(001) 381-8198,lgonzalez@example.org,TX,76738.0,Cardiology,7.0,492.0,16.0,118.0
+PT-00444,Ann,Rhodes,1968-02-12,2018-08-26,Male,O-,(466) 816-4870,hlee@example.org,TX,76306.0,Cardiology,7.0,497.0,16.0,257.0
+PT-00793,Lisa,Brown,1999-10-26,2022-01-18,Prefer not to say,B+,(695) 867-9901,vanderson@example.net,TX,79076.0,General,12.0,449.0,13.4,182.0
+PT-00305,Chelsea,Wilson,1998-05-29,2024-08-31,Female,AB+,(904) 608-1025,clinton24@example.net,TX,75608.0,Cardiology,20.0,488.0,12.3,190.0
+PT-00342,Teresa,Franco,1948-05-16,2022-01-16,Non-binary,A+,(164) 431-3493,marycole@example.org,TX,77432.0,Cardiology,6.0,406.0,13.6,188.0
+PT-00937,Allen,Carter,1975-06-02,2020-12-16,Prefer not to say,A+,(847) 655-9371,kristinathompson@example.com,TX,76265.0,General,16.0,493.0,,151.0
+PT-00314,Daniel,Smith,2001-12-10,2023-08-12,Female,O-,,isutton@example.net,TX,75616.0,Phlebotomy,16.0,413.0,12.9,131.0
+PT-00150,Alicia,Gallegos,1998-12-01,2023-05-30,Non-binary,A-,(435) 522-0221,jessicaking@example.com,TX,77345.0,Cardiology,18.0,447.0,11.7,181.0
+PT-00125,Donna,Johnson,2062-06-26,2019-07-15,Male,A+,(887) 878-0099,castrojeremiah@example.com,TX,76568.0,Cardiology,15.0,404.0,14.8,143.0
+PT-00847,Brittany,Fernandez,1995-02-14,2022-11-12,Female,,(722) 469-1260,rowlandgarrett@example.org,TX,77673.0,Cardiology,15.0,418.0,12.6,186.0
+PT-00886,James,Anderson,1975-05-13,2022-03-11,Male,,(129) 469-5119,dillonsalazar@example.com,TX,79030.0,Oncology,1.0,410.0,14.0,278.0
+PT-00051,Joseph,Ramirez,1957-01-19,2020-11-09,Male,O+,(311) 862-7192,pattersonwilliam@example.com,TX,77646.0,Phlebotomy,17.0,468.0,15.5,160.0
+PT-00354,Katherine,Hardy,1959-05-10,2018-06-13,,O+,(001) 358-3921,,TX,78395.0,Emergency,10.0,480.0,15.6,216.0
+PT-00999,Evan,Cooke,1995-04-08,2024-08-02,,AB+,(367) 223-8520,holly33@example.com,TX,79365.0,Oncology,11.0,431.0,11.3,181.0
+PT-00143,Steven,Espinoza,1947-01-04,2021-12-08,Female,O-,(610) 289-6071,randy02@example.org,TX,77752.0,Oncology,9.0,479.0,15.1,250.0
+PT-00471,Nicole,Hammond,1980-02-09,2021-07-18,,O-,(303) 600-2580,ypage@example.org,TX,76354.0,Phlebotomy,4.0,451.0,13.7,252.0
+PT-00400,Kimberly,Vasquez,1977-02-21,2023-07-13,Male,,(933) 423-6686,kellyanderson@example.org,TX,79957.0,Oncology,13.0,412.0,16.4,257.0
+PT-00930,Sara,Hoover,1970-07-26,2019-10-18,Male,,(859) 263-9523,tberger@example.net,TX,78696.0,Emergency,19.0,433.0,12.6,187.0
+PT-00321,Bethany,Hebert,1950-03-23,2020-12-10,Prefer not to say,AB-,(903) 516-6815,carlsonjessica@example.com,TX,79532.0,Emergency,13.0,478.0,,139.0
+PT-00020,Tyler,Johnson,2051-04-13,2019-06-10,Prefer not to say,B+,(800) 362-4679,jessica30@example.com,TX,79036.0,Cardiology,17.0,477.0,13.8,164.0
+PT-00908,Karen,Barry,1977-04-17,2023-07-24,Non-binary,AB+,(201) 464-1950,petergregory@example.com,TX,78730.0,General,13.0,462.0,14.3,
+PT-00851,Joseph,Johnson,1942-08-12,2020-11-24,Non-binary,B+,(001) 524-3997,smithjason@example.com,TX,77049.0,Phlebotomy,16.0,500.0,11.1,131.0
+PT-00895,Charles,Barr,1987-01-26,2018-12-10,Non-binary,,,milleramanda@example.com,TX,78538.0,General,3.0,,13.0,142.0
+PT-00408,Sarah,Moreno,1982-06-26,2019-04-19,Female,,(001) 280-2680,hrice@example.net,TX,75868.0,Phlebotomy,16.0,484.0,12.7,274.0
+PT-00538,Ryan,Blackwell,1991-11-08,2023-11-11,Male,A+,(825) 313-9547,sharonblair@example.org,TX,76190.0,Oncology,7.0,488.0,16.2,214.0
+PT-00694,Mark,Baker,1991-07-23,2019-06-06,Non-binary,O+,(277) 867-1467,dominguezsabrina@example.com,TX,76599.0,Phlebotomy,11.0,471.0,15.2,187.0
+PT-00039,Miguel,Wood,1989-08-19,2019-09-29,Non-binary,AB+,(796) 427-1339,dennisbrown@example.com,TX,,Emergency,7.0,491.0,13.2,272.0
+PT-00176,Jennifer,Ibarra,1959-03-20,2021-10-31,Prefer not to say,B-,(503) 825-1930,tshea@example.com,TX,77696.0,Oncology,5.0,419.0,11.5,135.0
+PT-00246,Ashley,Campbell,1943-05-12,2018-02-07,Male,A-,(677) 862-7340,,TX,77695.0,Cardiology,10.0,458.0,17.4,249.0
+PT-00893,Cheryl,Schultz,1993-11-09,2022-09-29,Male,O+,(176) 892-8318,roykristin@example.net,TX,76040.0,General,20.0,423.0,,219.0
+PT-00722,Kaylee,Gibson,1987-10-10,2020-08-15,Prefer not to say,O+,(167) 462-5417,eric83@example.net,TX,79717.0,General,9.0,418.0,14.4,221.0
+PT-00944,Chad,Mayer,1980-08-01,2021-10-15,Prefer not to say,O-,(785) 836-4122,james17@example.com,TX,78152.0,Emergency,5.0,497.0,,272.0
+PT-00155,Henry,Thompson,1964-05-30,2022-12-20,Prefer not to say,O-,(446) 742-1137,stevenmcconnell@example.org,TX,79779.0,Emergency,15.0,453.0,,
+PT-00639,Gary,Garcia,1964-09-30,2018-09-11,Non-binary,O+,(001) 456-5307,anthonydavis@example.org,TX,79651.0,Phlebotomy,18.0,,,197.0
+PT-00288,Michaela,Anderson,1966-11-29,2018-11-27,Male,A-,(879) 230-4150,pfields@example.net,TX,78862.0,General,13.0,448.0,14.6,124.0
+PT-00626,Kristen,Watson,1978-12-24,2019-06-19,Female,O-,(001) 325-6268,patrick54@example.org,TX,77654.0,Emergency,7.0,462.0,13.6,
+PT-00742,Michelle,Bailey,1941-06-21,2018-06-01,Non-binary,AB+,(565) 471-0222,debbievargas@example.net,TX,79301.0,Cardiology,2.0,451.0,,277.0
+PT-00570,Amanda,Stephens,1970-11-15,2018-03-23,Non-binary,A-,(424) 631-1685,eschmidt@example.com,TX,77556.0,Emergency,20.0,425.0,14.7,276.0
+PT-00802,Todd,Bailey,1983-02-08,2024-05-05,Prefer not to say,AB+,(407) 578-5477,kevinmcconnell@example.com,TX,76830.0,Emergency,4.0,447.0,14.3,257.0
+PT-00018,Michael,Oconnell,1940-01-19,2024-09-19,Non-binary,A+,(001) 907-8165,roberthardy@example.org,TX,77158.0,Phlebotomy,4.0,446.0,,188.0
+PT-00128,Veronica,Martinez,1950-01-05,2023-04-03,Female,B+,(841) 548-0576,tonya32@example.net,TX,75790.0,Emergency,13.0,471.0,13.4,211.0
+PT-00323,Megan,Raymond,2068-02-05,2019-04-28,Female,AB+,(156) 076-8228,josephhodges@example.org,TX,78734.0,Phlebotomy,6.0,447.0,15.5,240.0
+PT-00256,Courtney,Valdez,2053-06-11,2019-11-05,Non-binary,O-,(811) 688-8031,lhill@example.com,TX,78389.0,Phlebotomy,7.0,491.0,14.8,133.0
+PT-00791,Stephanie,Patel,1944-08-12,2024-10-26,Female,A+,(001) 357-5903,,TX,79123.0,Cardiology,7.0,402.0,11.5,224.0
+PT-00191,William,Clark,1985-07-07,2023-09-11,Male,,(199) 295-7392,jacquelinefaulkner@example.org,TX,78368.0,Phlebotomy,2.0,481.0,13.5,205.0
+PT-00116,Brandon,Dixon,1988-07-15,,Male,B-,(821) 465-7723,ronaldhicks@example.com,TX,79577.0,Phlebotomy,8.0,495.0,11.6,135.0
+PT-00666,Justin,Pena,1968-12-17,2022-02-18,Prefer not to say,A-,(001) 744-7234,dwilson@example.net,TX,77857.0,General,18.0,408.0,12.9,144.0
+PT-00607,Luis,Taylor,1951-08-23,2020-01-02,Male,B-,(228) 724-5448,kathrynmiranda@example.org,TX,78290.0,Phlebotomy,16.0,424.0,11.6,256.0
+PT-00181,Keith,Ward,2057-11-30,2024-10-12,Female,AB+,(150) 477-7538,michaelkemp@example.net,TX,78128.0,Phlebotomy,16.0,447.0,14.6,136.0
+PT-00302,Dawn,Petty,2053-02-02,2018-09-17,Female,O+,(270) 245-4756,penny99@example.com,TX,79165.0,Cardiology,14.0,438.0,14.1,129.0
+PT-00830,Carol,Ford,1953-09-13,2021-05-25,Male,A-,(188) 843-4779,denniskenneth@example.com,TX,76117.0,Emergency,16.0,459.0,12.3,279.0
+PT-00901,Joseph,Sanchez,1963-04-07,2019-03-12,,A+,(001) 975-9064,,TX,75667.0,Phlebotomy,13.0,414.0,11.1,277.0
+PT-00781,Patricia,Coleman,1997-11-01,2021-10-07,Female,AB-,(841) 521-0633,tinawalker@example.net,TX,,Cardiology,16.0,475.0,,
+PT-00740,Dawn,Lambert,1947-08-12,2022-11-29,Non-binary,A+,(001) 534-9411,velasqueztiffany@example.org,TX,75976.0,Phlebotomy,7.0,403.0,15.7,261.0
+PT-00716,Anthony,Miller,2066-03-05,2018-04-22,Non-binary,,,codysmith@example.org,TX,77973.0,Phlebotomy,5.0,464.0,11.5,181.0
+PT-00518,Alyssa,Duncan,1981-09-09,2023-08-15,Male,,(182) 468-4255,eevans@example.org,TX,76088.0,Cardiology,17.0,401.0,,267.0
+PT-00373,David,Short,1975-04-03,2021-08-29,,A+,(829) 891-0617,deborahrussell@example.net,TX,77945.0,Cardiology,8.0,,17.1,144.0
+PT-00046,Robert,Jennings,2000-02-06,2020-10-13,Non-binary,,(155) 452-2562,joshua31@example.com,TX,76903.0,Phlebotomy,13.0,404.0,16.6,166.0
+PT-00978,Brianna,Hartman,1962-06-19,2020-10-09,Male,O-,(208) 968-3578,ijohnson@example.com,TX,77079.0,Oncology,11.0,406.0,16.3,243.0
+PT-00158,Heather,Lambert,1962-12-03,2021-03-31,Non-binary,A+,(345) 616-6384,owalker@example.com,TX,77957.0,Oncology,16.0,495.0,13.8,143.0
+PT-00803,Sarah,Morales,2041-07-28,2020-11-29,Female,A+,(221) 484-0221,,TX,75921.0,Oncology,11.0,,16.7,144.0
+PT-00172,Michelle,Lambert,2000-11-27,2024-09-14,Male,,(619) 736-5073,,TX,76926.0,Phlebotomy,11.0,412.0,14.6,208.0
+PT-00017,Keith,Martinez,1949-07-18,2021-05-07,Female,B+,(810) 453-6980,davidcrawford@example.com,TX,79675.0,Cardiology,6.0,469.0,17.2,245.0
+PT-00512,Cindy,Long,1990-11-08,2022-02-01,Non-binary,O+,(290) 912-7055,donaldvargas@example.org,TX,75638.0,Oncology,1.0,440.0,12.6,166.0
+PT-00049,Paul,Wilkins,1969-09-16,2018-04-24,Male,AB+,,danielle84@example.com,TX,79133.0,Phlebotomy,19.0,,11.2,262.0
+PT-00192,Warren,Alexander,1962-10-03,2018-08-03,Non-binary,O+,(001) 994-9679,john16@example.net,TX,76469.0,Cardiology,8.0,493.0,15.3,136.0
+PT-00906,Laura,Miller,2053-09-03,2022-12-29,Female,O-,(001) 881-3102,aaronterry@example.net,TX,,Phlebotomy,15.0,474.0,12.6,185.0
+PT-00516,Bradley,Hodge,1991-12-08,2022-07-18,Female,,(879) 220-0015,williamsamanda@example.org,TX,,Emergency,9.0,469.0,16.8,248.0
+PT-00735,Michael,Scott,1999-08-16,2022-05-19,Male,B+,(164) 045-8631,aarongilbert@example.com,TX,79856.0,Cardiology,13.0,473.0,11.0,235.0
+PT-00741,Caitlin,Avila,1961-05-24,2023-06-27,,A+,(813) 861-4595,summerspatricia@example.org,TX,78027.0,Emergency,10.0,463.0,14.5,225.0
+PT-00481,Dawn,Jones,1966-05-23,2023-01-29,Female,B+,(178) 266-3462,richard91@example.org,TX,,General,20.0,489.0,16.8,241.0
+PT-00284,Alexis,Brooks,1983-05-08,2023-06-22,Male,A+,(716) 637-4497,russell87@example.net,TX,79917.0,Emergency,18.0,452.0,11.1,245.0
+PT-00775,Andrew,Nelson,1964-11-11,2018-08-12,Non-binary,AB-,(166) 689-6990,thompsonsandra@example.org,TX,77401.0,Cardiology,15.0,462.0,14.3,141.0
+PT-00707,Lucas,Weaver,2004-09-17,2023-06-17,Prefer not to say,,(374) 622-5476,jessicathomas@example.com,TX,76491.0,Phlebotomy,5.0,482.0,16.2,226.0
+PT-00226,Charles,Jones,1990-05-27,2020-03-08,Non-binary,AB+,(001) 570-2884,rjenkins@example.com,TX,76326.0,Phlebotomy,13.0,464.0,13.9,250.0
+PT-00027,Kenneth,Silva,1980-03-31,2019-07-29,Female,B+,(318) 424-7821,amy71@example.net,TX,78230.0,Phlebotomy,15.0,431.0,16.7,129.0
+PT-00843,Todd,Park,2060-04-06,2019-01-12,,AB-,(001) 810-9232,johnsonbrenda@example.com,TX,,Cardiology,3.0,472.0,16.2,231.0
+PT-00438,Dawn,Patel,1956-04-01,2021-04-18,Male,O-,(416) 403-4103,rebecca22@example.com,TX,79886.0,Oncology,9.0,492.0,16.3,156.0
+PT-00365,Nicholas,Smith,1964-05-02,2018-11-16,Non-binary,A-,(997) 813-1133,treilly@example.org,TX,77430.0,Emergency,2.0,422.0,12.5,242.0
+PT-00230,Sydney,Collins,1952-07-16,2021-09-05,,B+,(899) 292-0722,kaylacrosby@example.com,TX,76952.0,General,20.0,494.0,,261.0
+PT-00038,Phyllis,Wells,1998-09-02,2023-12-07,Male,O+,(204) 234-3044,jonturner@example.net,TX,76837.0,Phlebotomy,5.0,433.0,11.8,137.0
+PT-00670,Charles,Lawson,1984-08-26,2023-11-07,Male,,(130) 690-2137,nicholsonkeith@example.net,TX,78719.0,Cardiology,7.0,400.0,11.8,229.0
+PT-00375,Traci,Williams,1988-01-30,2022-01-07,Female,O-,(224) 277-0791,,TX,78737.0,Cardiology,15.0,433.0,16.5,133.0
+PT-00470,Danielle,Barber,1973-12-20,2022-07-10,Female,O-,(926) 936-9392,rachel74@example.org,TX,79859.0,General,15.0,473.0,13.9,237.0
+PT-00688,Andrea,Silva,1979-10-20,2018-07-27,Female,A+,(680) 516-0648,kirstenhobbs@example.com,TX,75855.0,General,2.0,413.0,13.5,
+PT-00917,David,Davis,1950-10-29,2024-04-20,Male,AB+,(915) 672-5774,lewisjames@example.com,TX,79829.0,Cardiology,11.0,500.0,13.3,121.0
+PT-00759,Jeremy,Ramirez,1960-06-07,2019-02-06,Female,O+,(001) 399-7013,nicolebonilla@example.net,TX,76250.0,Oncology,13.0,428.0,11.5,259.0
+PT-00784,Stacey,Stephens,1995-07-02,2019-10-21,Male,B+,(482) 405-0835,gutierreztammy@example.org,TX,76043.0,General,5.0,420.0,12.5,120.0
+PT-00195,Brooke,Gonzalez,1943-04-26,2021-04-16,Female,,(148) 449-2715,jenny58@example.org,TX,79440.0,Oncology,2.0,440.0,17.1,241.0
+PT-00921,Alison,Perez,1998-01-19,2022-01-29,,B+,(156) 034-6541,kevin65@example.net,TX,77043.0,Phlebotomy,7.0,456.0,17.3,111.0
+PT-00931,Christine,Carter,2005-03-06,2022-09-28,Male,A+,(855) 978-7133,beverlyrosales@example.net,TX,76051.0,Cardiology,9.0,480.0,14.3,141.0
+PT-00504,Kevin,Park,1994-06-01,2018-12-21,Prefer not to say,O-,,desireeleon@example.org,TX,77112.0,General,13.0,484.0,11.2,
+PT-00896,Walter,Walker,2001-05-23,2021-05-15,Female,,(001) 557-8491,johnsonjames@example.net,TX,77881.0,Cardiology,19.0,406.0,14.6,121.0
+PT-00580,Nathan,Hammond,1964-06-09,2024-02-25,Prefer not to say,A+,(748) 371-3444,yjohnson@example.net,TX,78010.0,Emergency,6.0,475.0,14.9,271.0
+PT-00161,Shane,Larson,1950-05-02,2022-07-18,Non-binary,AB-,(210) 461-2979,matthew79@example.com,TX,77724.0,Oncology,20.0,,16.4,202.0
+PT-00681,Anthony,Novak,2005-09-16,2023-11-15,Female,A+,(882) 310-3510,gilbertdavid@example.net,TX,78947.0,Phlebotomy,4.0,466.0,15.4,143.0
+PT-00163,Sharon,Perkins,1967-11-02,2021-10-22,Male,,(001) 861-8716,hortonmatthew@example.net,TX,79788.0,Phlebotomy,3.0,465.0,15.1,245.0
+PT-00706,Doris,Beasley,1977-06-06,2019-09-24,,,(001) 277-4956,petermoore@example.org,TX,77143.0,Oncology,1.0,409.0,15.2,146.0
+PT-00757,Kelly,Sims,1988-03-17,2019-12-22,Prefer not to say,O+,,dianalopez@example.net,TX,,General,17.0,414.0,11.5,
+PT-00153,Xavier,Edwards,1996-10-20,2018-05-06,Male,B-,(243) 840-6847,,TX,77909.0,General,14.0,458.0,13.2,204.0
+PT-00801,Joshua,Porter,2061-12-15,2018-04-27,,A+,(832) 471-5599,qjones@example.org,TX,77042.0,Emergency,3.0,476.0,15.8,
+PT-00755,Cynthia,Davis,2001-06-23,2023-04-28,Prefer not to say,,(159) 295-7673,dennis01@example.org,TX,78108.0,General,2.0,406.0,15.2,182.0
+PT-00815,Marc,Greer,1940-12-02,2019-01-31,Male,B-,(847) 751-3264,rholt@example.net,TX,75871.0,Emergency,7.0,423.0,15.4,117.0
+PT-00112,Jennifer,Gibson,1943-12-01,2021-07-27,Prefer not to say,O+,(215) 783-4831,gramirez@example.com,TX,,General,5.0,,17.3,142.0
+PT-00227,Michael,Hunter,1965-02-03,2024-12-27,,,(614) 312-4314,anthonyrichardson@example.com,TX,76360.0,Cardiology,13.0,447.0,16.2,196.0
+PT-00104,Anthony,Jones,1996-02-09,2022-12-16,Male,B-,(560) 762-1356,xrobles@example.org,TX,77308.0,Phlebotomy,18.0,416.0,17.0,222.0
+PT-00422,Mathew,Washington,1948-04-01,2020-02-09,Prefer not to say,B-,(718) 505-2910,maldonadocameron@example.net,TX,78614.0,General,16.0,497.0,14.4,
+PT-00420,Bobby,Beck,1973-05-31,2018-03-24,Non-binary,,(199) 348-9432,briannawells@example.net,TX,76580.0,Cardiology,9.0,462.0,,135.0
+PT-00809,Angela,Holloway,1990-02-13,2024-11-17,,O+,(001) 766-3776,jharrell@example.org,TX,76261.0,General,3.0,414.0,16.3,114.0
+PT-00587,Maurice,Miller,2002-04-03,2021-01-18,Non-binary,AB+,(612) 476-3468,hansenchad@example.com,TX,76815.0,General,7.0,408.0,12.2,184.0
+PT-00673,Christopher,Mckenzie,1969-01-22,2018-01-26,,AB-,(190) 298-4892,amber80@example.net,TX,76970.0,Cardiology,13.0,492.0,14.7,117.0
+PT-00120,Michael,Mccormick,1960-10-30,2023-03-04,Non-binary,,(311) 282-0110,,TX,76031.0,Cardiology,1.0,459.0,16.9,249.0
+PT-00054,Jeffrey,Smith,1999-08-27,2022-02-04,Female,AB+,,rporter@example.net,TX,76211.0,General,,400.0,13.0,163.0
+PT-00152,Katie,Flores,1970-06-27,2021-12-08,Male,A+,(266) 331-7494,perezgary@example.org,TX,77820.0,Oncology,19.0,484.0,13.6,146.0
+PT-00404,Daniel,Baker,2044-10-20,2019-02-19,Non-binary,B-,,yrodriguez@example.net,TX,79289.0,Oncology,14.0,489.0,14.6,248.0
+PT-00208,Megan,Osborne,1954-02-17,2019-12-15,Non-binary,B-,(621) 683-2891,smithcharles@example.net,TX,76693.0,Emergency,7.0,417.0,,236.0
+PT-00659,Michael,Richardson,1990-09-25,2019-09-07,Female,B+,,cunninghamjacob@example.org,TX,79760.0,Oncology,2.0,453.0,13.0,224.0
+PT-00910,Paul,Stewart,1945-09-12,2021-01-02,Prefer not to say,O-,(001) 337-3085,,TX,76466.0,Phlebotomy,16.0,479.0,17.1,198.0
+PT-00979,Terri,Brown,2061-03-28,2018-10-26,Prefer not to say,A-,(440) 420-9204,,TX,79010.0,General,19.0,,11.6,125.0
+PT-00009,Jason,Williams,2046-05-28,2024-10-31,Female,B+,(804) 368-2558,samuel37@example.net,TX,77225.0,Oncology,15.0,448.0,,273.0
+PT-00870,Victoria,Gilbert,1950-07-12,2018-02-27,Prefer not to say,O-,,jessicawalker@example.net,TX,77002.0,Emergency,4.0,428.0,15.6,158.0
+PT-00037,Stephen,Hopkins,2046-03-04,2020-09-27,Female,AB+,(535) 829-9005,robertjones@example.net,TX,,Oncology,15.0,469.0,,
+PT-00453,Erin,Guzman,1979-11-11,2022-04-07,Male,AB+,(131) 189-6475,edward45@example.net,TX,,General,5.0,426.0,15.5,271.0
+PT-00652,Cameron,Fernandez,1986-07-14,2024-01-13,,A+,(667) 364-5456,,TX,78904.0,Emergency,13.0,466.0,16.0,122.0
+PT-00254,Sabrina,Avery,1973-07-08,2022-08-31,Prefer not to say,B-,(257) 892-1080,ashley49@example.net,TX,76242.0,Oncology,20.0,500.0,11.5,224.0
+PT-00304,Sherry,Howard,1967-05-02,2018-01-28,Prefer not to say,AB-,(156) 880-6248,nbrock@example.com,TX,78776.0,Cardiology,13.0,442.0,13.9,220.0
+PT-00911,Ralph,Phillips,1980-03-21,2022-11-22,Male,B+,(462) 750-7750,robert38@example.org,TX,76577.0,Cardiology,7.0,460.0,13.2,169.0
+PT-00572,Jason,Frey,1947-01-13,2022-10-04,Female,O-,(198) 157-6165,zgarcia@example.net,TX,77542.0,Oncology,6.0,481.0,16.3,196.0
+PT-00624,Ryan,Knox,1979-12-23,2024-09-03,Female,,(655) 229-5121,jsnyder@example.com,TX,78582.0,General,10.0,500.0,13.6,143.0
+PT-00765,Kristine,Brown,1962-03-26,2021-09-02,Prefer not to say,O+,(254) 304-4714,jessicawong@example.com,TX,77783.0,Emergency,5.0,473.0,16.8,216.0
+PT-00993,April,Shepherd,1972-02-09,2018-05-03,Female,B+,(367) 909-0345,heathermckinney@example.org,TX,78522.0,Cardiology,15.0,424.0,15.1,202.0
+PT-00263,Ashley,Melton,1940-04-23,2018-04-04,Non-binary,,(121) 127-8220,uchang@example.net,TX,75522.0,Emergency,14.0,468.0,13.5,168.0
+PT-00611,Thomas,Ferrell,1948-09-17,2019-02-19,Female,O+,(525) 216-9057,brian70@example.org,TX,76564.0,Oncology,7.0,467.0,15.3,255.0
+PT-00298,Connie,Turner,1972-04-15,2021-01-09,Male,,(133) 722-0829,ericyoung@example.com,TX,77009.0,Phlebotomy,6.0,455.0,13.9,252.0
+PT-00415,Megan,Ramos,1963-02-19,2021-08-02,Male,A-,(366) 502-8908,larsonpaul@example.net,TX,75716.0,General,18.0,450.0,14.6,180.0
+PT-00151,Judith,Hayes,1991-07-04,2020-07-15,Non-binary,A+,(638) 426-0538,dawn44@example.com,TX,77947.0,Emergency,9.0,403.0,12.2,189.0
+PT-00849,Brian,Baker,2054-05-29,2020-11-16,Female,,(175) 430-0593,pblack@example.org,TX,76017.0,Oncology,4.0,419.0,,172.0
+PT-00641,Victoria,Anderson,1961-07-25,2024-06-04,Male,O+,(965) 254-3527,andrewcook@example.net,TX,77805.0,Cardiology,20.0,442.0,13.9,143.0
+PT-00957,Alexandra,Murray,1996-11-01,2020-08-15,,AB+,(001) 577-6285,,TX,,Emergency,19.0,486.0,11.7,252.0
+PT-00551,Brian,Shaffer,1985-06-01,2019-03-13,,O+,,,TX,79193.0,Cardiology,4.0,465.0,17.2,247.0
+PT-00852,Clayton,Good,1968-02-29,2024-09-30,Non-binary,,,,TX,76107.0,General,12.0,485.0,15.3,133.0
+PT-00489,Kimberly,Walsh,1960-03-26,2022-02-15,,O+,(625) 855-7093,smithpaul@example.org,TX,77816.0,Cardiology,15.0,422.0,17.4,129.0
+PT-00711,Marcia,Ortiz,1990-12-21,2023-06-03,Male,A-,(878) 983-8962,mfox@example.com,TX,,Emergency,16.0,,11.5,244.0
+PT-00148,Zachary,Vincent,1951-09-03,2024-03-28,,AB-,(437) 835-8265,donnacarr@example.org,TX,78838.0,Phlebotomy,14.0,445.0,16.7,218.0
+PT-00147,Bridget,Murphy,2001-08-13,2023-04-27,Male,A-,(999) 670-2884,breanna89@example.org,TX,,General,3.0,455.0,,205.0
+PT-00778,Kimberly,Moreno,1949-10-23,2019-11-06,Non-binary,A-,(369) 564-6920,schultzjoyce@example.net,TX,77070.0,Oncology,16.0,419.0,16.7,243.0
+PT-00854,Connor,Lewis,1987-02-14,2020-10-28,Prefer not to say,,(224) 765-8128,hamiltonjessica@example.net,TX,,Oncology,20.0,415.0,16.0,190.0
+PT-00951,Jonathan,Wolf,1970-07-01,2022-11-26,Female,O+,(001) 573-2961,hughessusan@example.net,TX,79782.0,Phlebotomy,17.0,440.0,13.5,133.0
+PT-00660,Bruce,Mckinney,1965-11-27,2020-01-11,Male,B+,(551) 760-2676,tmitchell@example.net,TX,76018.0,Oncology,1.0,,,113.0
+PT-00349,Jason,Larson,1992-11-22,2022-04-22,Non-binary,O+,(335) 384-0718,zturner@example.net,TX,79126.0,Cardiology,5.0,431.0,12.8,131.0
+PT-00464,Juan,Bray,1949-04-21,2022-09-01,,O-,(136) 831-3627,maria61@example.com,TX,78297.0,Phlebotomy,20.0,,16.1,266.0
+PT-00326,Jenny,Williams,1995-07-27,2018-08-08,Non-binary,A+,(001) 832-7303,frazierandrea@example.com,TX,,General,5.0,424.0,,253.0
+PT-00187,Thomas,Young,1989-03-27,2024-10-29,Prefer not to say,A+,(147) 769-4133,,TX,75654.0,Phlebotomy,8.0,438.0,11.8,
+PT-00124,Tiffany,Adkins,1994-05-27,2023-07-28,,B-,(993) 953-4278,,TX,78806.0,General,12.0,428.0,15.1,268.0
+PT-00920,Anthony,Carlson,1972-06-11,2019-10-06,Non-binary,,(398) 918-3693,taylor37@example.com,TX,75643.0,Emergency,16.0,493.0,16.7,149.0
+PT-00609,April,Smith,2041-03-04,2020-05-04,,A-,(201) 947-3199,spearsjessica@example.org,TX,77486.0,General,2.0,446.0,14.6,216.0
+PT-00144,Amy,Kelley,2003-11-21,2021-08-24,Male,B-,(001) 459-9813,aaronrobinson@example.com,TX,79967.0,General,17.0,477.0,13.8,139.0
+PT-00752,James,Terrell,1994-10-10,2018-06-04,,O-,(488) 263-2697,rcain@example.com,TX,78706.0,Oncology,3.0,480.0,16.4,187.0
+PT-00198,Scott,Bradley,1970-06-01,2020-02-05,Non-binary,O+,(610) 632-2262,,TX,76839.0,Cardiology,17.0,434.0,16.2,218.0
+PT-00610,Jennifer,Ward,1973-02-09,2018-08-27,Prefer not to say,A+,(001) 958-8315,moralesamber@example.com,TX,75858.0,Phlebotomy,10.0,409.0,17.1,242.0
+PT-00280,Lisa,Spears,1962-01-17,2023-08-08,Non-binary,,(769) 224-8005,abush@example.com,TX,77805.0,General,16.0,458.0,12.1,
+PT-00294,Bradley,Brewer,1970-07-22,2024-10-14,,,(001) 282-5429,cherylcastaneda@example.net,TX,75645.0,Phlebotomy,9.0,500.0,17.5,235.0
+PT-00897,Jenna,Johnson,1986-01-22,2019-03-17,Prefer not to say,A+,(001) 313-4079,jenniferevans@example.com,TX,77827.0,Phlebotomy,15.0,484.0,15.7,
+PT-00401,Charles,Galvan,1998-05-26,2020-07-12,Female,O-,(546) 618-8265,michael40@example.net,TX,77837.0,Emergency,2.0,437.0,,176.0
+PT-00123,Mario,Ortiz,1991-07-27,2021-04-26,Non-binary,B-,(713) 455-5316,dsmith@example.com,TX,,General,9.0,401.0,,122.0
+PT-00184,Deborah,Stone,1985-01-13,2022-12-03,Female,O+,(876) 247-3399,kristinnavarro@example.com,TX,77312.0,Phlebotomy,12.0,428.0,11.2,135.0
+PT-00203,Gary,House,1972-06-27,2022-04-18,Male,B+,,reneefisher@example.net,TX,77471.0,Cardiology,12.0,447.0,13.9,
+PT-00439,Christy,Berry,2000-12-23,2021-10-06,Male,B-,(332) 511-4958,connie86@example.org,TX,79644.0,Cardiology,8.0,495.0,16.7,217.0
+PT-00247,Dakota,Salazar,1987-01-14,2023-07-17,Female,,(137) 650-9454,lauravaughn@example.com,TX,75868.0,Cardiology,7.0,414.0,13.1,227.0
+PT-00416,Jennifer,Nguyen,1986-08-16,2023-02-20,,O+,(180) 892-1020,kyle58@example.net,TX,75670.0,Cardiology,14.0,419.0,12.0,260.0
+PT-00837,Sandra,Anderson,1976-12-15,2021-12-09,Male,,(166) 326-0544,shannon45@example.net,TX,75552.0,Cardiology,8.0,482.0,13.0,131.0
+PT-00825,Melissa,Smith,2055-02-19,2018-09-23,,B-,(198) 654-0505,maxwellwhitney@example.net,TX,78272.0,Cardiology,7.0,476.0,16.5,213.0
+PT-00975,Richard,Patel,1980-04-08,2021-07-19,Male,,(223) 558-4527,jennifer69@example.com,TX,79316.0,Oncology,11.0,410.0,16.7,116.0
+PT-00828,Eduardo,Taylor,1949-09-10,2019-05-16,Non-binary,O-,(168) 833-2273,sean88@example.net,TX,78359.0,General,8.0,480.0,17.1,117.0
+PT-00955,Maria,Johnson,1944-08-26,2020-04-09,Female,,(001) 833-7813,hendersonbethany@example.org,TX,78554.0,General,17.0,496.0,14.3,139.0
+PT-00130,Kelly,Bates,1973-04-29,2019-03-20,Female,O-,(502) 463-7046,cowantracy@example.net,TX,76370.0,Emergency,20.0,471.0,13.1,266.0
+PT-00638,Victoria,Peterson,2054-01-31,2018-03-17,Non-binary,AB-,(001) 998-2765,,TX,79578.0,Cardiology,10.0,430.0,17.5,238.0
+PT-00403,Luke,Summers,1970-04-26,2024-08-30,Prefer not to say,A+,(129) 925-6852,thomasjohnson@example.com,TX,78062.0,General,6.0,,16.8,150.0
+PT-00845,Jason,Burke,1968-02-10,2020-03-30,Prefer not to say,O+,(354) 635-8112,sbarnes@example.net,TX,78935.0,Cardiology,20.0,465.0,13.9,250.0
+PT-00831,Melanie,Barker,1984-09-01,2023-07-02,Non-binary,B-,(001) 319-5667,,TX,78177.0,Emergency,18.0,402.0,17.2,118.0
+PT-00736,Tammy,Conner,1982-11-23,2022-11-22,Prefer not to say,A-,(588) 412-2533,bklein@example.net,TX,75872.0,Emergency,8.0,400.0,13.5,233.0
+PT-00982,Lindsay,Fields,1976-01-14,2019-01-28,Prefer not to say,,(783) 639-3569,stevensjohn@example.com,TX,78572.0,Emergency,20.0,401.0,13.9,228.0
+PT-00220,Barbara,Williams,1975-10-09,2019-06-20,Non-binary,,(152) 457-2557,dana44@example.org,TX,79997.0,General,8.0,459.0,11.8,225.0
+PT-00642,Sarah,Mcgee,1958-07-20,2019-07-22,,,,danielle80@example.net,TX,75724.0,Phlebotomy,17.0,417.0,13.8,147.0
+PT-00984,Dawn,Yu,2049-09-09,2019-02-25,Male,A-,(154) 126-4518,natashabrooks@example.com,TX,76714.0,Emergency,7.0,473.0,11.8,240.0
+PT-00811,Shawn,Christensen,1955-06-13,2021-06-01,Male,,(464) 900-8243,marcmcdaniel@example.net,TX,76124.0,Oncology,5.0,,11.9,168.0
+PT-00868,Nicholas,Newman,1990-02-08,2024-11-11,Prefer not to say,A-,(209) 653-0573,smithsabrina@example.com,TX,79729.0,General,7.0,433.0,15.6,153.0
+PT-00989,Sarah,Garcia,1970-11-05,2020-03-11,Male,B-,(974) 746-3084,howarddonna@example.org,TX,78307.0,Phlebotomy,11.0,424.0,15.3,229.0
+PT-00625,Michelle,Petty,1970-02-27,2018-12-05,Non-binary,A+,,zodom@example.org,TX,78588.0,Oncology,13.0,433.0,11.6,238.0
+PT-00904,Thomas,Yang,1942-05-28,2020-05-07,,,(708) 546-3765,yjoyce@example.com,TX,77013.0,Emergency,14.0,480.0,16.6,247.0
+PT-00820,Donald,Wilson,1976-07-25,2019-04-08,Non-binary,A-,(488) 667-5714,jessica10@example.org,TX,78054.0,Emergency,4.0,466.0,11.9,202.0
+PT-00387,Michael,Jacobs,2045-04-03,2023-04-17,Non-binary,,,monicablanchard@example.com,TX,76923.0,Oncology,4.0,431.0,15.3,178.0
+PT-00807,Michael,Wood,2048-08-06,2023-12-29,Non-binary,A+,(893) 782-9848,afrancis@example.net,TX,78042.0,Emergency,5.0,466.0,12.8,234.0
+PT-00510,Alexander,Davis,1983-09-16,2021-09-17,Non-binary,B+,,,TX,,Oncology,4.0,436.0,15.0,159.0
+PT-00268,John,Cruz,1961-02-04,2021-05-21,Female,,(335) 432-1662,rileykimberly@example.org,TX,,General,10.0,435.0,11.4,261.0
+PT-00882,Megan,Gill,1963-05-07,2019-11-01,Prefer not to say,O+,(822) 926-9851,radams@example.com,TX,75919.0,Phlebotomy,16.0,405.0,13.9,253.0
+PT-00442,Marc,Lee,1987-07-14,2021-05-07,,A+,(315) 564-4354,krista47@example.net,TX,79956.0,Oncology,5.0,425.0,13.2,255.0
+PT-00497,Gary,Sanchez,2042-03-20,2023-10-19,Non-binary,O-,(001) 422-4250,sbishop@example.com,TX,79667.0,General,2.0,437.0,16.8,159.0
+PT-00113,Micheal,Garza,1985-01-23,2024-08-14,Non-binary,A-,(121) 553-3980,gutierrezshelley@example.com,TX,79023.0,General,4.0,467.0,16.9,113.0
+PT-00692,Christopher,Macias,1963-02-24,2022-01-28,Prefer not to say,B+,(496) 779-2250,davidfisher@example.com,TX,79135.0,Cardiology,11.0,458.0,14.2,126.0
+PT-00233,Gary,Davies,1991-10-27,2020-07-21,,O-,(001) 849-9819,jennifer71@example.com,TX,79441.0,Oncology,17.0,480.0,15.7,207.0
+PT-00936,Benjamin,Greene,1982-09-22,2020-05-29,Prefer not to say,A-,(001) 499-2506,pamela74@example.org,TX,78140.0,Cardiology,17.0,451.0,14.8,242.0
+PT-00608,James,Gonzales,1997-07-28,2022-05-11,Prefer not to say,,(001) 560-9603,rossmark@example.com,TX,77515.0,Phlebotomy,12.0,428.0,14.9,128.0
+PT-00672,Charles,Copeland,1959-01-18,2018-02-16,Non-binary,AB+,(179) 845-8847,barryharold@example.com,TX,76338.0,Phlebotomy,3.0,439.0,13.0,250.0
+PT-00374,Danielle,Cunningham,1992-06-15,2019-03-23,Female,A-,(414) 888-8358,newmanmartha@example.net,TX,76452.0,Oncology,15.0,459.0,13.0,140.0
+PT-00664,Danielle,Howell,1953-01-15,2018-05-13,Non-binary,B-,(791) 442-8389,brooke67@example.net,TX,77491.0,Phlebotomy,2.0,413.0,13.7,155.0
+PT-00909,Ruben,Taylor,2000-11-19,2023-06-22,,A+,(877) 729-4935,sreeves@example.net,TX,76658.0,Emergency,1.0,454.0,14.7,251.0
+PT-00234,Steven,Valentine,1953-04-04,2020-09-19,Female,,(173) 749-4411,tiffany28@example.org,TX,77532.0,Oncology,1.0,456.0,13.0,148.0
+PT-00846,Sara,Flowers,1956-03-14,2018-03-18,Prefer not to say,O-,,michaelray@example.com,TX,77261.0,Oncology,15.0,434.0,17.1,246.0
+PT-00677,Steven,Reyes,1965-02-28,2018-05-08,Female,O+,(436) 310-7641,fowlerlisa@example.net,TX,76721.0,Phlebotomy,6.0,473.0,14.9,157.0
+PT-00318,Jason,Larson,1990-03-24,2022-10-13,Prefer not to say,,(813) 940-7736,wendy63@example.net,TX,76999.0,General,6.0,423.0,15.2,220.0
+PT-00649,Kimberly,Wells,1958-05-09,2018-09-28,Male,O-,(791) 309-2604,austinmiller@example.org,TX,79123.0,Emergency,16.0,488.0,13.1,227.0
+PT-00411,Michael,Sullivan,1948-03-09,2018-12-18,Female,,(428) 864-9902,xavierjones@example.org,TX,78635.0,Phlebotomy,8.0,470.0,11.4,209.0
+PT-00966,Gregory,Galloway,1988-04-11,2018-11-29,Male,A+,(845) 534-5133,xthompson@example.org,TX,75911.0,General,4.0,,,206.0
+PT-00710,Katherine,Evans,2003-11-21,2023-08-18,Non-binary,,(812) 758-4947,smithmaria@example.net,TX,77133.0,Emergency,19.0,446.0,11.2,119.0
+PT-00359,Catherine,Thompson,1986-12-02,2023-10-20,Non-binary,B+,(001) 439-8504,amber21@example.com,TX,76143.0,Cardiology,5.0,495.0,,178.0
+PT-00259,Dominique,James,1946-07-21,2018-07-05,Prefer not to say,O+,(001) 449-2001,savannah53@example.org,TX,78927.0,Phlebotomy,999.0,407.0,17.1,127.0
+PT-00745,Aaron,Decker,1967-07-28,2019-02-03,Prefer not to say,B+,(001) 304-6744,figueroaandrea@example.net,TX,76041.0,Phlebotomy,3.0,413.0,11.7,262.0
+PT-00628,Steven,Webb,2048-01-14,2019-04-06,,,(573) 359-1693,,TX,76500.0,Phlebotomy,12.0,424.0,13.1,
+PT-00633,Michael,Hayes,1995-11-23,2019-08-02,Male,O+,(947) 735-9922,emilypatel@example.net,TX,76133.0,Emergency,17.0,405.0,12.7,125.0
+PT-00283,Michelle,Davis,1959-08-16,2023-09-03,Prefer not to say,O-,(968) 680-2736,michaelward@example.net,TX,78106.0,Phlebotomy,20.0,481.0,15.3,267.0
+PT-00377,Stephen,Lee,1975-07-20,2023-10-05,,AB+,(001) 901-7012,shannonbarry@example.org,TX,76629.0,Cardiology,6.0,403.0,17.2,225.0
+PT-00385,Andrew,Harris,1941-10-01,2022-04-16,Female,O-,(001) 805-7944,holmesadrian@example.org,TX,77158.0,Emergency,16.0,444.0,16.9,238.0
+PT-00225,Rebecca,Stewart,1978-08-29,2019-03-07,Non-binary,AB-,(745) 587-2374,jennifer16@example.com,TX,78315.0,General,12.0,405.0,13.6,255.0
+PT-00877,Patricia,Henderson,2000-03-21,2022-02-28,Female,,(697) 713-0258,walter13@example.net,TX,76025.0,Phlebotomy,6.0,433.0,12.1,236.0
+PT-00473,Jennifer,Benson,1970-07-31,2022-01-28,Non-binary,B-,(177) 139-8678,matthewgarcia@example.com,TX,77459.0,General,11.0,471.0,16.0,263.0
+PT-00348,Christopher,Rice,1996-05-06,2019-09-13,,O-,(995) 824-2930,mmoon@example.net,TX,76095.0,Oncology,3.0,412.0,11.9,
+PT-00506,Christine,Ruiz,1973-06-22,2018-02-15,Female,A-,(944) 399-8810,xcarrillo@example.net,TX,75918.0,Phlebotomy,1.0,473.0,14.9,247.0
+PT-00640,Sean,Higgins,1975-03-30,2019-07-17,,O+,(766) 752-6463,karina09@example.com,TX,75797.0,Emergency,20.0,480.0,15.5,216.0
+PT-00798,Daniel,Frye,2052-04-13,2020-03-27,Female,,(512) 431-3701,lindsay67@example.com,TX,79625.0,Emergency,18.0,462.0,11.3,187.0
+PT-01000,Jacob,Anderson,1951-05-06,2023-09-13,Prefer not to say,,(001) 289-9792,,TX,77785.0,Cardiology,16.0,484.0,15.0,152.0
+PT-00620,Jill,Schwartz,1959-07-04,2018-11-13,Non-binary,O-,(179) 532-0087,carloscummings@example.com,TX,79212.0,Oncology,16.0,488.0,15.6,134.0
+PT-00953,Holly,Hammond,1967-11-07,2022-07-27,Female,A+,(001) 893-3023,alyssapatterson@example.com,TX,79910.0,Emergency,11.0,423.0,11.2,124.0
+PT-00865,Danielle,Simpson,1947-05-18,2019-03-30,Female,B-,(289) 705-5800,cassandrapayne@example.org,TX,76931.0,Emergency,5.0,476.0,15.5,191.0
+PT-00646,Selena,Choi,1995-05-08,2020-12-29,Non-binary,B-,(568) 782-7784,katelyn75@example.com,TX,78205.0,Oncology,1.0,445.0,11.5,232.0
+PT-00913,Christian,Vaughan,2000-05-21,2022-01-15,Prefer not to say,B+,(001) 879-4633,,TX,76989.0,Oncology,7.0,436.0,15.5,132.0
+PT-00557,Terry,Reese,2005-12-23,2020-09-18,Non-binary,B-,(121) 983-1146,stephaniebarry@example.net,TX,79199.0,General,7.0,431.0,16.4,201.0
+PT-00682,Victoria,Knight,1958-05-29,2018-05-30,,O+,(585) 682-2232,yangangela@example.org,TX,78263.0,Phlebotomy,4.0,400.0,13.0,121.0
+PT-00578,David,Boone,1947-07-25,2022-05-16,,A+,(381) 386-7245,heidijones@example.com,TX,76520.0,Oncology,10.0,456.0,,143.0
+PT-00796,Kristen,Lynn,1947-09-21,2019-08-12,Female,AB+,(271) 347-4375,jenniferdavis@example.com,TX,76628.0,General,17.0,442.0,11.4,261.0
+PT-00086,Danielle,Houston,1993-07-16,2021-03-05,Non-binary,B+,(198) 169-4101,hendersonryan@example.com,TX,,Cardiology,8.0,446.0,12.2,113.0
+PT-00243,Karen,Salazar,1940-06-18,2024-03-04,Female,O+,(001) 495-3856,kellygrant@example.net,TX,78327.0,General,16.0,483.0,12.3,183.0
+PT-00699,Steven,Smith,2001-07-01,2024-09-08,Non-binary,B-,(630) 449-9821,jerry21@example.org,TX,78548.0,General,2.0,411.0,12.4,145.0
+PT-00941,Shannon,Salazar,1950-07-25,2022-03-02,Non-binary,AB-,(561) 421-4453,glennnavarro@example.net,TX,78677.0,Cardiology,10.0,462.0,11.2,146.0
+PT-00160,Ryan,White,1981-03-31,2018-11-15,Male,,(666) 483-7978,lisabishop@example.net,TX,78220.0,Emergency,13.0,490.0,15.2,
+PT-00525,John,Jones,1979-06-19,2019-11-10,Female,A+,(580) 691-6198,williamhart@example.net,TX,79223.0,Emergency,9.0,427.0,12.0,150.0
+PT-00036,Judy,Perez,1981-02-11,2024-12-19,Male,A-,(878) 996-8705,ihunter@example.net,TX,78456.0,Phlebotomy,7.0,464.0,12.7,199.0
+PT-00541,Oscar,Turner,1956-01-13,2022-02-25,Prefer not to say,AB+,,patriciawilliams@example.net,TX,77488.0,Cardiology,19.0,444.0,16.0,211.0
+PT-00171,Darrell,Johnston,1962-03-24,2022-11-29,,O-,(199) 382-7493,jennifertrevino@example.net,TX,79138.0,Oncology,,436.0,13.5,196.0
+PT-00655,Sandra,Brewer,1992-07-09,2024-02-17,Female,O+,(001) 697-5467,jonespeter@example.org,TX,76929.0,General,11.0,,11.2,226.0
+PT-00971,Justin,Johnson,1989-07-02,2020-03-04,Female,A-,(957) 461-9071,elizabethpeters@example.com,TX,78642.0,Emergency,5.0,,11.4,176.0
+PT-00924,Jimmy,Velez,1981-02-26,2023-10-16,Male,,(704) 342-9823,carterjames@example.com,TX,77995.0,General,5.0,498.0,,242.0
+PT-00914,Russell,Jones,1999-11-05,2023-06-01,Female,,,lisa41@example.com,TX,77723.0,General,6.0,477.0,14.2,216.0
+PT-00734,Jacqueline,Ayala,2005-04-09,2020-10-23,Male,A+,(918) 288-6077,schwartzkristina@example.com,TX,78935.0,General,5.0,483.0,15.2,119.0
+PT-00096,Charles,Schwartz,1952-10-04,2018-10-20,Male,B+,(677) 846-2847,ethanjackson@example.net,TX,79699.0,Cardiology,20.0,495.0,16.4,183.0
+PT-00564,Timothy,Adams,1984-09-29,2022-10-03,Prefer not to say,O+,(398) 270-3413,mdonaldson@example.com,TX,78762.0,Cardiology,12.0,451.0,12.8,156.0
+PT-00241,John,Contreras,2002-06-16,2021-01-17,,A-,(001) 961-9092,richardsonadam@example.com,TX,77914.0,Emergency,19.0,430.0,12.6,245.0
+PT-00743,Rachael,Winters,1999-11-13,2023-11-13,Prefer not to say,B+,(125) 583-0644,pauljoshua@example.org,TX,,Emergency,8.0,409.0,11.2,146.0
+PT-00864,James,Wade,1956-06-25,2022-12-22,Female,A+,(001) 607-2789,,TX,77543.0,Cardiology,7.0,480.0,,257.0
+PT-00575,Richard,Moore,1992-08-27,2023-11-04,,O-,,michaelmichael@example.net,TX,78495.0,Oncology,6.0,402.0,11.8,170.0
+PT-00691,Lawrence,Malone,1948-09-22,2023-02-10,Female,O-,(382) 204-6075,bhuff@example.com,TX,76372.0,General,8.0,428.0,11.9,267.0
+PT-00461,Paula,Bonilla,1940-12-11,2019-07-21,Non-binary,O+,(339) 904-2694,marissacook@example.net,TX,76502.0,Cardiology,15.0,479.0,,133.0
+PT-00554,Steven,Hernandez,2000-09-23,2020-07-30,Non-binary,O+,(826) 660-7806,paula99@example.org,TX,78827.0,Cardiology,17.0,468.0,11.1,177.0
+PT-00858,Thomas,Acosta,1982-08-20,2022-02-15,Non-binary,,(833) 539-8584,seanwarner@example.com,TX,76749.0,Emergency,2.0,494.0,15.3,123.0
+PT-00945,Kari,Walsh,1981-05-08,2023-01-17,Prefer not to say,,(613) 930-3380,justin46@example.net,TX,77273.0,Phlebotomy,3.0,479.0,15.3,214.0
+PT-00207,Nicole,Cherry,1955-06-28,2022-12-29,Male,AB-,(369) 321-2679,stacy74@example.com,TX,,Cardiology,3.0,470.0,14.5,186.0
+PT-00393,Diane,Anderson,1949-12-13,2023-11-26,Male,A-,(397) 654-3026,jonesdavid@example.org,TX,78056.0,Cardiology,13.0,475.0,11.7,187.0
+PT-00795,Patrick,Morgan,1977-04-14,2022-12-18,Non-binary,B+,(206) 886-6132,brandoncasey@example.com,TX,76391.0,Cardiology,14.0,417.0,16.4,263.0
+PT-00871,Zachary,Cantrell,1963-11-18,2021-03-25,Non-binary,O+,(967) 789-2715,bowmanjessica@example.com,TX,78037.0,Oncology,14.0,426.0,14.9,182.0
+PT-00398,Alejandra,Galloway,1968-08-30,2019-11-19,,AB-,(953) 418-4555,alynch@example.com,TX,,General,1.0,433.0,12.4,127.0
+PT-00767,Kelly,Smith,1980-08-03,2023-07-22,Non-binary,A-,(135) 179-0103,fgarcia@example.net,TX,77526.0,Emergency,1.0,488.0,,165.0
+PT-00915,Christopher,Dickson,1984-04-17,2021-05-28,Female,B-,(246) 618-0891,crystal51@example.org,TX,79415.0,Emergency,2.0,402.0,13.3,176.0
+PT-00218,Michael,Ayala,1961-12-20,2022-07-22,Non-binary,O-,(645) 499-5669,hickmanmonica@example.net,TX,79086.0,Phlebotomy,2.0,420.0,13.9,233.0
+PT-00005,William,Hunt,1974-01-31,2019-01-02,Non-binary,,(675) 746-4422,alexandraflowers@example.net,TX,75676.0,Emergency,9.0,405.0,15.7,247.0
+PT-00769,Joshua,Salas,2003-04-02,2023-02-25,Non-binary,O-,(591) 205-1062,lbauer@example.net,TX,78007.0,Cardiology,5.0,490.0,13.6,204.0
+PT-00643,Gina,Espinoza,1998-11-15,2024-05-02,Female,AB-,(691) 549-3069,wayala@example.org,TX,79101.0,Phlebotomy,18.0,468.0,,140.0
+PT-00965,Alyssa,Bryant,1982-10-01,2018-01-18,,A+,(001) 279-2130,gjackson@example.com,TX,76164.0,Cardiology,18.0,489.0,15.6,210.0
+PT-00613,Laurie,Sullivan,1978-04-25,2019-03-03,Female,B+,(300) 803-1157,harriskeith@example.com,TX,76131.0,Cardiology,13.0,464.0,13.2,150.0
+PT-00739,William,Lopez,2043-07-12,2022-04-23,Female,AB+,(144) 820-8904,matthewroth@example.net,TX,76244.0,Emergency,4.0,480.0,,234.0
+PT-00547,Alyssa,Grant,1985-10-20,2023-10-14,Female,B+,(231) 573-7501,williamwright@example.net,TX,76890.0,Phlebotomy,12.0,430.0,15.3,150.0
+PT-00726,Keith,Moore,2000-10-19,2020-01-07,Non-binary,A+,(454) 330-4604,trujillokathy@example.org,TX,77914.0,Cardiology,3.0,401.0,13.7,244.0
+PT-00986,Jesse,Compton,1945-06-05,2019-06-07,Non-binary,O+,(388) 292-6996,roblesbrianna@example.com,TX,77967.0,Emergency,12.0,439.0,14.8,248.0
+PT-00684,Ashley,Hunter,1968-01-13,2018-04-03,Non-binary,,(557) 805-0727,qlarson@example.com,TX,78513.0,Cardiology,7.0,424.0,12.9,
+PT-00099,Hunter,Schultz,2000-06-29,2024-06-14,Male,AB+,(744) 250-8738,vgomez@example.com,TX,76079.0,Phlebotomy,2.0,497.0,15.9,230.0
+PT-00805,Margaret,Thompson,2044-05-15,2021-04-02,Non-binary,A+,(505) 920-6146,gravesblake@example.org,TX,75702.0,Emergency,7.0,498.0,15.1,134.0
+PT-00728,Linda,Bryant,1948-03-31,2018-08-21,,,(001) 751-6969,rojasandrew@example.com,TX,78862.0,General,3.0,477.0,11.8,278.0
+PT-00574,John,Glenn,1998-08-01,2021-04-08,Non-binary,O+,(627) 396-9687,wallaceeric@example.com,TX,79554.0,Cardiology,15.0,499.0,16.6,202.0
+PT-00407,Cindy,Rubio,1993-11-05,2023-05-22,Female,A-,(001) 903-4139,christopher10@example.net,TX,79769.0,Oncology,7.0,421.0,15.1,130.0
+PT-00503,Vanessa,Franklin,2045-03-09,2024-07-26,,A-,,,TX,78129.0,Cardiology,17.0,413.0,12.9,187.0
+PT-00048,Kimberly,Martin,1969-06-13,2021-02-15,Male,AB+,(800) 597-7674,kingalexander@example.com,TX,75749.0,Cardiology,17.0,451.0,15.4,247.0
+PT-00033,Dustin,Lewis,1993-05-20,2018-10-06,Female,O+,(603) 507-4600,vasquezjohn@example.com,TX,78029.0,Phlebotomy,19.0,431.0,14.8,120.0
+PT-00780,Adrian,Roberts,1997-11-02,2018-03-29,Non-binary,A+,(166) 444-2143,edavis@example.org,TX,,Phlebotomy,1.0,429.0,16.4,243.0
+PT-00840,Chelsea,Ortega,1973-11-20,2024-05-25,Prefer not to say,A+,(129) 044-7715,sandra10@example.com,TX,77468.0,Cardiology,4.0,462.0,11.7,162.0
+PT-00201,Christopher,Cain,1995-02-28,2022-11-17,Non-binary,A+,(923) 766-3211,lisacole@example.com,TX,78438.0,Phlebotomy,13.0,446.0,14.3,150.0
+PT-00135,Michelle,Potts,1988-11-05,2022-01-09,,O-,(337) 365-3147,pittsjesse@example.org,TX,76907.0,Emergency,7.0,415.0,17.2,226.0
+PT-00028,Cindy,Sanchez,1979-10-03,2024-03-04,Male,A+,(412) 255-6146,josephlowe@example.org,TX,77985.0,Emergency,1.0,411.0,17.0,170.0
+PT-00947,Nicolas,Johns,1997-12-12,2018-12-29,Female,,(466) 227-9092,adillon@example.com,TX,75634.0,Emergency,10.0,471.0,15.2,274.0
+PT-00231,Melissa,Jackson,1970-03-06,2023-09-09,Non-binary,AB+,(419) 370-3046,robert72@example.net,TX,78003.0,Phlebotomy,1.0,447.0,,138.0
+PT-00490,Jacob,Murillo,1956-09-10,2019-12-13,Male,O+,(637) 480-4916,hcoleman@example.net,TX,79337.0,Phlebotomy,14.0,435.0,14.6,143.0
+PT-00773,Allison,Marquez,1972-11-15,2019-12-19,Female,O-,(668) 626-4763,,TX,77456.0,Oncology,11.0,430.0,14.5,276.0
+PT-00379,Chris,Chambers,1959-12-10,2019-06-20,Male,O+,(707) 965-4302,christopher00@example.com,TX,76248.0,Cardiology,3.0,474.0,14.8,
+PT-00289,Jerry,Howell,1997-02-14,2018-02-08,Female,A-,(513) 757-9659,ashley29@example.org,TX,76036.0,General,14.0,482.0,16.1,254.0
+PT-00419,Amy,Roth,2001-01-28,2022-07-04,Non-binary,O+,(455) 744-6797,patrick04@example.com,TX,76705.0,Cardiology,8.0,,15.8,178.0
+PT-00675,Martha,Morgan,1953-12-09,2023-03-02,Non-binary,,(191) 178-7127,,TX,78277.0,General,2.0,466.0,12.9,190.0
+PT-00392,Erica,Brewer,2004-04-26,2019-12-28,Non-binary,A+,(648) 404-2965,jessicaolson@example.net,TX,78853.0,Phlebotomy,5.0,475.0,15.6,146.0
+PT-00593,David,Singh,1974-03-26,2018-02-21,Male,AB+,(594) 841-5779,dsnyder@example.com,TX,79679.0,General,15.0,431.0,15.8,118.0
+PT-00499,Patrick,Villegas,1958-11-28,2020-05-23,Non-binary,A-,(512) 310-4957,heatherwalker@example.net,TX,78768.0,Phlebotomy,18.0,489.0,16.7,
+PT-00139,Andrew,Thomas,1951-10-28,2018-03-02,Non-binary,B-,,kyle09@example.org,TX,77415.0,Emergency,11.0,402.0,12.1,123.0
+PT-00063,Erica,Travis,2064-05-17,2021-10-07,Non-binary,O-,(389) 471-5061,rgarcia@example.net,TX,78031.0,Oncology,5.0,429.0,13.5,149.0
+PT-00472,Erika,Morris,1989-05-04,2018-01-01,,A+,(469) 716-0365,conradchristopher@example.com,TX,77590.0,Emergency,18.0,426.0,15.3,226.0
+PT-00648,Morgan,Rodriguez,1957-05-03,2020-07-15,Male,O+,(992) 921-4025,james93@example.com,TX,79617.0,Emergency,9.0,452.0,12.4,161.0
+PT-00129,Amy,Adams,1941-04-01,2020-12-19,,O-,(176) 133-9549,christopher69@example.net,TX,78412.0,Cardiology,9.0,474.0,13.5,273.0
+PT-00521,Joshua,Norris,1960-12-29,2018-06-25,Male,AB-,,sarahmitchell@example.com,TX,78960.0,Cardiology,16.0,458.0,16.7,120.0
+PT-00839,Steven,Johnston,1981-05-08,2022-09-27,Prefer not to say,AB+,(001) 611-7651,,TX,76184.0,Phlebotomy,16.0,475.0,11.1,191.0
+PT-00065,Vincent,Brown,1958-07-22,2022-09-17,Prefer not to say,A+,(001) 204-4958,dponce@example.org,TX,77213.0,Emergency,13.0,461.0,11.0,200.0
+PT-00813,William,Brown,1946-12-22,2018-03-19,Prefer not to say,O+,(001) 600-4225,,TX,78864.0,Phlebotomy,7.0,413.0,11.2,278.0
+PT-00015,Robert,Nelson,1987-06-21,2020-10-26,Male,B+,(626) 925-2753,fosterjessica@example.org,TX,,Cardiology,9.0,498.0,15.2,138.0
+PT-00157,Megan,Walton,2044-01-28,2020-06-22,,A+,(460) 296-5339,cunninghameric@example.com,TX,,Phlebotomy,7.0,438.0,,145.0
+PT-00041,Laura,Gates,1943-12-15,2018-01-15,Female,B+,(855) 529-8442,jesus45@example.com,TX,78125.0,Cardiology,6.0,494.0,13.9,219.0
+PT-00493,Felicia,May,1987-02-19,2020-06-19,,A-,(466) 653-0628,johnbrown@example.org,TX,76999.0,Cardiology,6.0,453.0,14.5,213.0
+PT-00380,Tyler,Knight,2041-12-15,2018-09-22,Female,O-,,johnsonashley@example.net,TX,,Oncology,3.0,442.0,,228.0
+PT-00188,John,Novak,1977-08-30,2024-12-26,Prefer not to say,,(731) 609-8800,john54@example.net,TX,77120.0,Phlebotomy,16.0,476.0,14.5,271.0
+PT-00764,Jasmine,Porter,1983-11-21,2020-06-05,Prefer not to say,O-,(566) 450-5681,reginamaddox@example.org,TX,79882.0,Cardiology,1.0,493.0,13.8,
+PT-00217,Shawn,Drake,1977-05-16,2024-12-06,Female,O-,(938) 224-4540,dale56@example.com,TX,78368.0,Emergency,10.0,482.0,17.2,233.0
+PT-00922,Angelica,Weaver,2062-01-03,2023-04-25,Male,,,,TX,77789.0,Cardiology,6.0,,12.7,216.0
+PT-00792,Nicole,Jones,2000-09-28,2018-12-24,Prefer not to say,A+,(219) 900-7194,odavis@example.org,TX,79298.0,Emergency,11.0,477.0,14.9,124.0
+PT-00053,Timothy,Erickson,1985-06-30,2021-06-20,Prefer not to say,AB-,(605) 971-0003,castrobrian@example.com,TX,76302.0,General,10.0,,11.8,217.0
+PT-00879,Jeffrey,Cooper,2068-02-08,2018-06-30,Non-binary,A+,(001) 889-4033,rharper@example.net,TX,78283.0,Cardiology,12.0,455.0,12.8,177.0
+PT-00338,Sydney,Hudson,2005-07-29,2023-02-21,,A-,(979) 508-1246,sotoaustin@example.org,TX,79699.0,Emergency,13.0,427.0,17.3,164.0
+PT-00749,Gary,Smith,1992-03-18,2018-06-16,,A+,(208) 669-3240,sonya11@example.com,TX,78963.0,Emergency,13.0,499.0,12.0,234.0
+PT-00720,Christopher,Edwards,1984-06-29,2022-08-19,Prefer not to say,,,barnesjohn@example.net,TX,79209.0,General,6.0,426.0,14.8,198.0
+PT-00725,Tanner,Sherman,1998-09-14,2024-07-20,Prefer not to say,O-,(350) 920-6515,,TX,79154.0,Oncology,19.0,498.0,12.3,196.0
+PT-00296,Amy,Thompson,1966-07-01,2020-10-06,Male,A+,(590) 785-2810,curtisvaughan@example.com,TX,78307.0,Cardiology,5.0,448.0,15.6,272.0
+PT-00702,Catherine,Manning,2004-05-24,2021-11-11,Male,O+,(537) 984-4072,johnsonmegan@example.org,TX,79494.0,Emergency,17.0,451.0,,185.0
+PT-00252,Robert,Clayton,1950-08-09,2023-03-22,,B+,(269) 525-7447,clarkjacqueline@example.org,TX,79713.0,General,17.0,490.0,,
+PT-00727,Courtney,Munoz,2049-04-27,2023-01-01,Male,B-,(175) 666-1723,hayleyperez@example.com,TX,76138.0,General,9.0,424.0,11.2,268.0
+PT-00462,Victoria,Cantu,1973-06-06,,Female,A-,(640) 493-2205,megan55@example.net,TX,76266.0,General,13.0,458.0,12.8,208.0
+PT-00456,Danielle,Miller,1963-05-08,2023-11-13,,AB-,(174) 581-2973,,TX,77712.0,General,10.0,420.0,11.3,237.0
+PT-00271,Michael,Williams,2061-08-14,2020-07-12,Female,A+,(739) 414-2675,alicia57@example.org,TX,79524.0,General,2.0,471.0,13.7,216.0
+PT-00816,William,May,1948-02-22,2019-08-20,Female,,(826) 225-8875,foxjackie@example.org,TX,76052.0,Cardiology,6.0,464.0,16.1,266.0
+PT-00863,Randall,Miller,2045-12-14,2021-12-12,Prefer not to say,,(340) 231-6797,wcarlson@example.com,TX,77734.0,General,1.0,497.0,11.3,274.0
+PT-00270,Christopher,Cole,2068-08-05,2022-09-02,Prefer not to say,B+,(791) 761-8883,ncunningham@example.org,TX,76103.0,Cardiology,13.0,423.0,15.9,231.0
+PT-00202,Taylor,Hoover,2042-10-17,2019-08-08,Prefer not to say,A+,(656) 533-4318,jennifertucker@example.net,TX,79671.0,Oncology,3.0,430.0,16.1,203.0
+PT-00162,April,Costa,1947-11-27,2022-11-24,Male,B-,(001) 692-7296,michael32@example.net,TX,78022.0,General,19.0,451.0,14.4,211.0
+PT-00556,Bruce,Juarez,1968-02-27,2021-12-19,Female,AB+,,brownpam@example.net,TX,78220.0,Oncology,7.0,,15.8,170.0
+PT-00730,Deanna,Daniel,1997-04-22,2023-02-01,,,(507) 689-3754,sara08@example.org,TX,77104.0,Phlebotomy,9.0,420.0,16.1,180.0
+PT-00402,James,Aguilar,1949-05-24,2018-10-31,Male,B+,(391) 811-7920,listephanie@example.org,TX,76912.0,General,6.0,493.0,11.5,133.0
+PT-00703,Jared,Myers,1945-08-07,2022-02-21,Male,A+,(187) 946-8965,ngarcia@example.com,TX,77547.0,Emergency,12.0,414.0,,117.0
+PT-00477,Charles,Dixon,2004-04-21,,Male,O+,(001) 570-6217,freemantheresa@example.net,TX,78253.0,Phlebotomy,19.0,415.0,16.0,225.0
+PT-00822,Jeff,Johnson,1993-11-11,2021-07-01,Prefer not to say,B-,(500) 277-7346,vcollins@example.net,TX,76954.0,Emergency,14.0,437.0,17.4,219.0
+PT-00772,Amanda,Wells,2000-07-11,2022-01-30,Male,A-,(516) 954-5113,collinsfrank@example.org,TX,77639.0,General,12.0,459.0,15.0,203.0
+PT-00106,Martin,Kelly,1941-03-24,2024-03-12,Prefer not to say,A-,(500) 803-3277,andrew32@example.org,TX,77109.0,Emergency,4.0,459.0,17.2,275.0
+PT-00566,Billy,Ochoa,1957-08-03,2019-08-21,Non-binary,O-,(167) 033-3536,roycarlson@example.org,TX,76150.0,Phlebotomy,6.0,453.0,14.2,271.0
+PT-00390,Caleb,Smith,1984-02-28,2024-01-30,Non-binary,B+,(213) 963-4915,sherry36@example.com,TX,77051.0,General,2.0,411.0,,264.0
+PT-00002,Tommy,Young,1947-10-19,2024-08-15,Prefer not to say,A+,(570) 927-3700,anthony51@example.org,TX,79255.0,Phlebotomy,3.0,427.0,12.5,264.0
+PT-00562,Heather,Rodriguez,1968-04-26,2018-02-04,Male,B-,(505) 322-6935,,TX,77525.0,General,19.0,,13.1,266.0
+PT-00932,Craig,Cruz,1944-04-13,2019-05-26,Prefer not to say,AB+,(464) 487-5937,barkerlaura@example.com,TX,77059.0,Oncology,1.0,458.0,,170.0
+PT-00081,Christopher,Wilson,1947-06-09,2020-09-15,Female,O-,(717) 935-8403,jordan78@example.com,TX,78741.0,Emergency,8.0,488.0,14.1,235.0
+PT-00206,Gregory,Smith,1959-04-02,2024-11-11,Non-binary,B+,,clarkdoris@example.net,TX,,Oncology,4.0,417.0,,225.0
+PT-00035,Jacqueline,Mathis,1963-10-30,2022-06-10,Female,B+,(001) 881-6384,nvasquez@example.com,TX,78135.0,General,11.0,496.0,17.1,112.0
+PT-00943,Tara,Morales,1940-03-09,2019-05-17,Non-binary,A-,(121) 239-4959,montgomerymichael@example.net,TX,76106.0,Phlebotomy,14.0,461.0,,254.0
+PT-00776,Matthew,Reyes,1982-03-07,2023-12-19,Non-binary,O-,,scohen@example.org,TX,79733.0,Emergency,12.0,486.0,17.1,126.0
+PT-00509,David,Ruiz,1944-11-17,2024-02-27,Prefer not to say,A-,(647) 946-0745,timothy92@example.org,TX,79510.0,Cardiology,3.0,432.0,11.6,258.0
+PT-00428,Steven,Payne,1965-07-29,2018-04-23,,A+,(832) 266-7285,karacastillo@example.net,TX,79645.0,Oncology,19.0,499.0,17.3,166.0
+PT-00455,Kimberly,Miller,1977-07-29,2019-06-03,,O-,(801) 277-7380,dbrock@example.org,TX,78796.0,Cardiology,4.0,463.0,12.3,161.0
+PT-00367,Amy,Howe,1940-09-18,2022-02-20,Female,O-,(999) 400-1076,,TX,77767.0,Emergency,10.0,494.0,15.0,228.0
+PT-00092,Beth,Tran,2067-05-25,2024-05-18,Male,A-,,brian38@example.net,TX,76549.0,Oncology,7.0,433.0,15.3,150.0
+PT-00340,Andrea,Smith,1970-11-02,2018-07-18,Male,A-,(914) 460-8196,stanleyrobert@example.com,TX,79805.0,General,1.0,415.0,,150.0
+PT-00898,Carla,Harrison,1971-11-21,2020-11-09,Male,A+,(198) 936-2289,chenteresa@example.com,TX,79679.0,Phlebotomy,15.0,422.0,16.1,210.0
+PT-00565,Nancy,Davis,1991-04-06,2019-06-22,Female,O+,(233) 625-0472,john89@example.org,TX,77295.0,Cardiology,8.0,,13.8,207.0
+PT-00346,Vincent,Sanchez,1949-04-04,2021-07-07,,,(185) 794-0644,,TX,79733.0,Cardiology,13.0,,16.3,144.0
+PT-00777,Erin,Baldwin,1956-11-23,2023-02-19,Male,A-,(827) 961-8143,lopezmatthew@example.net,TX,78297.0,General,6.0,436.0,17.2,129.0
+PT-00242,Gail,Salas,1960-03-30,2020-08-11,Male,O+,(598) 882-9029,davidmartinez@example.net,TX,76899.0,General,11.0,491.0,14.1,145.0
+PT-00014,Rebecca,Deleon,1949-11-01,2019-09-19,Female,O+,(636) 816-0809,sarah25@example.net,TX,78740.0,Phlebotomy,3.0,449.0,13.5,229.0
+PT-00316,Jessica,Kaiser,1971-04-01,2023-05-05,Male,A+,(710) 514-1441,ulittle@example.net,TX,78176.0,General,11.0,408.0,13.0,139.0
+PT-00601,Steven,Long,1962-06-28,2018-06-11,Prefer not to say,O+,(540) 985-1467,garciaalice@example.com,TX,76337.0,Emergency,10.0,469.0,15.5,158.0
+PT-00388,Haley,Fox,1987-11-17,2018-08-18,Male,O+,(144) 536-5036,davidmays@example.org,TX,76445.0,Cardiology,6.0,422.0,12.5,191.0
+PT-00274,Ashley,Howard,1943-07-19,2018-10-26,Non-binary,O-,(722) 366-4882,qreed@example.net,TX,79642.0,Phlebotomy,7.0,442.0,13.0,113.0
+PT-00167,Jonathan,Adams,2067-03-02,2021-01-30,Male,O-,(853) 363-4617,oschultz@example.net,TX,79779.0,Emergency,3.0,439.0,14.0,119.0
+PT-00841,Sherri,Wallace,1970-02-20,2023-07-28,Female,B+,(355) 331-8532,kimberly95@example.net,TX,76520.0,Emergency,10.0,446.0,17.3,161.0
+PT-00021,Charles,Wilcox,1988-05-19,2020-04-03,Non-binary,O+,(001) 712-3984,anthonyallen@example.org,TX,76969.0,Cardiology,15.0,466.0,,
+PT-00647,Ellen,Lewis,1952-01-11,2023-08-20,Non-binary,O-,(398) 601-7312,andrea37@example.net,TX,77853.0,Oncology,13.0,462.0,14.1,151.0
+PT-00819,Timothy,Walsh,1956-08-10,2022-12-06,Male,B+,(001) 805-7393,brewerkevin@example.com,TX,77900.0,Phlebotomy,13.0,454.0,12.4,168.0
+PT-00485,Tracy,Reyes,1944-10-04,2018-08-20,Female,A+,(382) 921-5929,david35@example.org,TX,79664.0,Oncology,10.0,487.0,12.6,125.0
+PT-00505,Mason,Jacobson,1987-11-10,2020-06-19,Female,O+,(283) 355-7571,owilliams@example.org,TX,77989.0,Emergency,10.0,481.0,11.9,275.0
+PT-00832,Diana,Rios,1978-08-12,2019-05-03,Female,O-,(867) 238-0225,sararobertson@example.org,TX,78271.0,Cardiology,13.0,456.0,14.0,118.0
+PT-00244,Bernard,Mitchell,2068-10-24,2021-03-15,Male,A-,(444) 803-5517,schneiderstanley@example.org,TX,75951.0,Cardiology,8.0,468.0,,119.0
+PT-00567,Joseph,Bell,1986-05-20,2023-12-28,Non-binary,O-,(680) 455-5813,glopez@example.org,TX,79989.0,Phlebotomy,9.0,471.0,16.6,122.0
+PT-00876,Grace,Lopez,1982-04-01,2021-12-22,Male,A+,(612) 507-8972,leonrobert@example.net,TX,75952.0,Cardiology,17.0,479.0,13.5,211.0
+PT-00563,Leah,Mccann,1963-04-19,2020-02-06,Non-binary,B-,(001) 888-6093,jose98@example.net,TX,78565.0,General,16.0,478.0,13.2,157.0
+PT-00687,Ian,Butler,2003-03-11,2021-03-06,Female,B+,(779) 754-1390,brian16@example.com,TX,78308.0,Phlebotomy,10.0,478.0,16.8,248.0
+PT-00958,Randy,Drake,1998-06-15,2019-05-30,Non-binary,O+,(688) 475-8427,,TX,76605.0,Emergency,3.0,481.0,14.3,146.0
+PT-00190,Michael,Carter,1991-03-13,2022-09-03,Female,O+,(877) 613-1132,jrhodes@example.com,TX,77743.0,Emergency,12.0,408.0,17.2,249.0
+PT-00976,Jaime,Parker,1960-03-29,2022-10-02,,B-,(001) 670-3492,sarahkelly@example.net,TX,77462.0,Oncology,6.0,442.0,13.0,270.0
+PT-00700,Tina,Cole,1992-02-07,2018-01-01,Female,B+,(144) 457-6442,,TX,78719.0,General,18.0,437.0,,257.0
+PT-00511,Kimberly,Espinoza,1968-07-05,2023-06-14,Non-binary,AB-,(661) 249-4440,,TX,79466.0,Emergency,10.0,488.0,14.8,254.0
+PT-00475,Rachel,Brown,1966-03-12,2024-02-22,,O-,(837) 947-3540,nreed@example.org,TX,78696.0,Phlebotomy,6.0,,11.9,214.0
+PT-00857,Cheryl,Farrell,2068-05-23,2024-02-14,Female,B+,(386) 684-7605,djohnson@example.org,TX,76123.0,Cardiology,9.0,500.0,17.1,202.0
+PT-00748,Jonathan,Green,1950-10-31,2021-01-26,Female,,(693) 853-0555,brandy81@example.com,TX,77224.0,Emergency,12.0,470.0,12.1,172.0
+PT-00253,Tara,Hodge,1997-04-20,2021-04-23,Non-binary,,(793) 974-6727,,TX,76256.0,Oncology,5.0,461.0,12.0,265.0
+PT-00022,Renee,Torres,1960-02-27,2018-09-20,,A+,(657) 814-7950,amoon@example.org,TX,78307.0,Emergency,18.0,429.0,,111.0
+PT-00460,Carmen,Rivera,2043-07-16,2021-04-05,Non-binary,,(275) 317-2308,natasha66@example.com,TX,78133.0,General,4.0,412.0,16.5,121.0
+PT-00277,Patricia,Dillon,1972-04-06,2023-10-02,Prefer not to say,O-,(774) 583-7442,johnbrown@example.com,TX,75696.0,Phlebotomy,16.0,497.0,16.5,162.0
+PT-00956,Jose,Clements,2064-02-28,2018-09-06,,O-,(486) 363-2078,larsonjason@example.net,TX,79944.0,Emergency,14.0,408.0,14.1,
+PT-00386,Thomas,Smith,1968-11-07,2022-05-10,Non-binary,B+,(859) 919-4939,jalvarez@example.com,TX,79330.0,Phlebotomy,11.0,476.0,12.4,181.0
+PT-00806,Daniel,Smith,1993-09-19,2019-11-16,Female,AB-,,michaelphillips@example.com,TX,78247.0,Cardiology,9.0,487.0,15.5,
+PT-00344,Laura,Garcia,1993-04-05,2020-07-15,Prefer not to say,A+,(495) 374-0062,fryechristian@example.org,TX,78872.0,Phlebotomy,11.0,415.0,,218.0
+PT-00770,Derek,Miller,1996-03-26,2023-03-17,Non-binary,A-,(827) 959-0928,fcox@example.com,TX,75511.0,Cardiology,11.0,467.0,11.2,219.0
+PT-00131,David,Ingram,1959-11-10,2018-09-16,Prefer not to say,AB+,(264) 367-7578,reynoldsmiguel@example.org,TX,,General,4.0,417.0,11.3,119.0
+PT-00872,Cody,Wolf,2005-03-12,2020-02-15,Non-binary,A+,(502) 754-9235,gibbskatherine@example.com,TX,77420.0,Emergency,,403.0,12.9,177.0
+PT-00088,John,Lewis,1997-03-23,2023-07-04,Male,A+,(558) 957-0638,anthonyjohnson@example.net,TX,78368.0,Emergency,10.0,460.0,,
+PT-00331,Kenneth,Taylor,1980-05-06,2020-12-12,Non-binary,A+,(465) 567-0224,harry63@example.org,TX,78949.0,Cardiology,4.0,499.0,16.3,163.0
+PT-00467,Linda,Brown,1948-07-17,2022-11-08,Female,O-,(170) 723-3384,sarah58@example.com,TX,78221.0,Cardiology,13.0,419.0,16.5,252.0
+PT-00122,Cory,Myers,1980-12-25,2021-05-22,Female,O+,(756) 592-4385,philip76@example.org,TX,77771.0,General,4.0,430.0,13.5,201.0
+PT-00861,John,Martinez,1966-09-06,2020-05-11,,O-,(893) 668-6377,nathan76@example.net,TX,76881.0,Oncology,14.0,404.0,,130.0
