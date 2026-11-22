@@ -3,6 +3,26 @@
 **GitHub:** [chooseyourtacoday](https://github.com/chooseyourtacoday)  
 **Tools:** Python, Pandas, NumPy, Matplotlib, Jupyter Notebook  
 
+**Question:** Can these intake records be standardized so an O- patient is never given O+ blood because of inaccurate data entry?
+
+## Before and after
+
+| Metric | Before | After |
+|---|---|---|
+| Total Rows | 1,050 | 1,000 |
+| Missing Values | 684 | 776* |
+| Duplicate Patient IDs | 50 | 0 |
+| Unique Blood Type Values | 20 | 8 |
+| Unique Gender Values | 16 | 4 |
+| Unique State Values | 8 | 1 |
+| Unique Department Values | 14 | 5 |
+
+*Missing values increased because impossible values (99.9 g/dL hemoglobin, 999 lb weight, future dates) were correctly nulled rather than retained as false data. Every remaining value is now clinically trustworthy.
+
+![DFW Healthcare Patient Intake — Post-Cleaning Analysis](healthcare_cleaning_dashboard.png)
+
+*Post-cleaning dashboard saved by the notebook: blood type, gender, department, hemoglobin, remaining missing values, and admissions by year.*
+
 ---
 
 ## Background
@@ -70,22 +90,6 @@ One person is too many for negligence.
 
 ---
 
-## Pre vs. Post Cleaning Comparison
-
-| Metric | Before | After |
-|---|---|---|
-| Total Rows | 1,050 | 1,000 |
-| Missing Values | 684 | 776* |
-| Duplicate Patient IDs | 50 | 0 |
-| Unique Blood Type Values | 20 | 8 |
-| Unique Gender Values | 16 | 4 |
-| Unique State Values | 8 | 1 |
-| Unique Department Values | 12 | 5 |
-
-*Missing values increased because impossible values (99.9 g/dL hemoglobin, 999 lb weight, future dates) were correctly nulled rather than retained as false data. Every remaining value is now clinically trustworthy.
-
----
-
 ## Clinical Recommendations
 
 1. **Implement dropdown validation** on blood type, gender, state, and department fields at point of entry — eliminating free text variation entirely
@@ -117,11 +121,12 @@ This project exists to demonstrate that data quality is not a technical exercise
 ## Repository Structure
 
 ```
-healthcare_data_cleaning/
-├── Healthcare_Data_Cleaning.ipynb   # Full cleaning notebook
-├── patient_data_MESSY.csv           # Original uncleaned dataset
-├── patient_data_CLEANED.csv         # Final cleaned output
-└── README.md                        # This file
+Healthcare_Data_Cleaning/
+├── Healthcare_Data_Cleaning.ipynb    # Full cleaning notebook
+├── patient_data_MESSY.csv            # Original uncleaned dataset
+├── patient_data_CLEANED.csv          # Final cleaned output
+├── healthcare_cleaning_dashboard.png # Post-cleaning charts from the notebook
+└── README.md                         # This file
 ```
 
 ---
